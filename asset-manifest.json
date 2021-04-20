@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/CPI-SPI-Calculator/static/css/main.788656b4.chunk.css",
-    "main.js": "/CPI-SPI-Calculator/static/js/main.1e24cb21.chunk.js",
-    "main.js.map": "/CPI-SPI-Calculator/static/js/main.1e24cb21.chunk.js.map",
+    "main.js": "/CPI-SPI-Calculator/static/js/main.4c978c09.chunk.js",
+    "main.js.map": "/CPI-SPI-Calculator/static/js/main.4c978c09.chunk.js.map",
     "runtime-main.js": "/CPI-SPI-Calculator/static/js/runtime-main.9811a0b9.js",
     "runtime-main.js.map": "/CPI-SPI-Calculator/static/js/runtime-main.9811a0b9.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/CPI-SPI-Calculator/static/css/2.4c97ca4f.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.32ab1fea.chunk.js",
     "static/css/main.788656b4.chunk.css",
-    "static/js/main.1e24cb21.chunk.js"
+    "static/js/main.4c978c09.chunk.js"
   ]
 }
