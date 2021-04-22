@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/CPI-SPI-Calculator/static/css/main.9875803d.chunk.css",
+    "main.css": "/CPI-SPI-Calculator/static/css/main.ab920f90.chunk.css",
     "main.js": "/CPI-SPI-Calculator/static/js/main.b1fb914c.chunk.js",
     "main.js.map": "/CPI-SPI-Calculator/static/js/main.b1fb914c.chunk.js.map",
     "runtime-main.js": "/CPI-SPI-Calculator/static/js/runtime-main.9811a0b9.js",
@@ -10,14 +10,14 @@
     "static/js/2.0e7e0a84.chunk.js.map": "/CPI-SPI-Calculator/static/js/2.0e7e0a84.chunk.js.map",
     "index.html": "/CPI-SPI-Calculator/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/CPI-SPI-Calculator/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.9875803d.chunk.css.map": "/CPI-SPI-Calculator/static/css/main.9875803d.chunk.css.map",
+    "static/css/main.ab920f90.chunk.css.map": "/CPI-SPI-Calculator/static/css/main.ab920f90.chunk.css.map",
     "static/js/2.0e7e0a84.chunk.js.LICENSE.txt": "/CPI-SPI-Calculator/static/js/2.0e7e0a84.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.9811a0b9.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.0e7e0a84.chunk.js",
-    "static/css/main.9875803d.chunk.css",
+    "static/css/main.ab920f90.chunk.css",
     "static/js/main.b1fb914c.chunk.js"
   ]
 }
