@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css2?family=Caveat+Brush&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Iceland&display=swap");
+/* Button {
+  font-family: "Josefin Sans", cursive;
+} */
+.mainHeading {
+  margin-bottom: 24px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-family: "Iceland", cursive;
+  font-family: 42px;
+  width: 100%;
+  /* background: #191e2e; */
+  /* box-shadow: 0 1px 8px rgb(0, 0, 0, 0.2); */
+  background-color: #4d49f6;
+}
+.inputcpicredit h5 {
+  font-family: "Josefin Sans", cursive;
+  margin-top: 20px;
+}
+.cpivalue,
+.spivalue {
+  font-family: monospace;
+  font-size: x-large;
+}
+.cpivalue span:last-child,
+.spivalue span:last-child {
+  color: #1f2437;
+  letter-spacing: 2px;
+  font-family: "Caveat Brush";
+}
+.creditTotFind {
+  font-size: 16px;
+  font-style: italic;
+}
+.main1-wrapper {
+  text-align: center;
+  position: relative;
+}
+.creditTotalPingala {
+  font-variant: small-caps;
+  border-radius: 60px;
+  z-index: 10;
+  background: #000000;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 550px;
+  animation: slideDown 0.3s ease-in-out;
+  left: 25vw;
+  border-radius: 16px;
+  box-shadow: 1px 1px 16px #00000050;
+}
+.creditTotalPingala > div {
+  border-radius: 30px;
+  background: transparent;
+}
+@keyframes slideDown {
+  0% {
+    opacity: 0;
+    top: 50px;
+  }
+  100% {
+    opacity: 1;
+    top: 550px;
+  }
+}
+.creditTotalCalc {
+  font-variant: small-caps;
+  border-radius: 16px;
+  width: 60vw;
+  left: 20vw;
+  z-index: 10;
+  background: #000000;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 550px;
+  animation: slideDown 0.3s ease-in-out;
+  box-shadow: 1px 1px 16px #00000050;
+}
+@media screen and (max-width: 500px) {
+  .creditTotalCalc {
+    width: 100%;
+    left: 0px;
+  }
+  .creditTotalPingala {
+    left: 0px;
+    width: 100%;
+  }
+}

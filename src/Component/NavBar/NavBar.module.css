@@ -1,0 +1,14 @@
+.main1Wrapper {
+  margin-top: 50px;
+  width: 100%;
+  background: black;
+  padding-top: 36px;
+  padding-bottom: 16px;
+}
+.contactBar {
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+.main1Wrapper a {
+  color: #4d49f6;
+}

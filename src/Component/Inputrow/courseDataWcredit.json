@@ -1,0 +1,6038 @@
+[
+  {
+    "dataId": 1,
+    "courseCode": "AE201",
+    "courseName": "INTRODUCTION TO AEROSPACE ENGINEERING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 2,
+    "courseCode": "AE211",
+    "courseName": "INCOMPRESSIBLE AERODYNAMICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 3,
+    "courseCode": "AE251",
+    "courseName": "EXPERIMENTS IN AEROSPACE ENGINEERING-I",
+    "Credits": "8"
+  },
+  {
+    "dataId": 4,
+    "courseCode": "AE311",
+    "courseName": "COMPRESSIBLE AERODYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 5,
+    "courseCode": "AE321",
+    "courseName": "FLIGHT MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 6,
+    "courseCode": "AE322",
+    "courseName": "AIRCRAFT CONTROL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 7,
+    "courseCode": "AE331",
+    "courseName": "INTRODUCTION TO AEROSPACE STRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 8,
+    "courseCode": "AE341",
+    "courseName": "AEROSPACE PROPULSION",
+    "Credits": "11"
+  },
+  {
+    "dataId": 9,
+    "courseCode": "AE351",
+    "courseName": "EXPERIMENTS IN AEROSPACE ENGINEERING -II",
+    "Credits": "5"
+  },
+  {
+    "dataId": 10,
+    "courseCode": "AE361",
+    "courseName": "AEROMODEL DESIGN & FABRICATION",
+    "Credits": "3"
+  },
+  {
+    "dataId": 11,
+    "courseCode": "AE371",
+    "courseName": "B TECH PROJECT 1",
+    "Credits": "4"
+  },
+  {
+    "dataId": 12,
+    "courseCode": "AE401",
+    "courseName": "TECHNICAL COMMUNICATION",
+    "Credits": "2"
+  },
+  {
+    "dataId": 13,
+    "courseCode": "AE421",
+    "courseName": "EXPERIMENTS IN FLIGHT MECHANICS",
+    "Credits": "3"
+  },
+  {
+    "dataId": 14,
+    "courseCode": "AE441",
+    "courseName": "ROCKET PROPULSION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 15,
+    "courseCode": "AE451",
+    "courseName": "EXPERIMENTS IN AEROSPACE ENGINEERING III",
+    "Credits": "5"
+  },
+  {
+    "dataId": 16,
+    "courseCode": "AE461",
+    "courseName": "AIRCRAFT DESIGN- I",
+    "Credits": "7"
+  },
+  {
+    "dataId": 17,
+    "courseCode": "AE462",
+    "courseName": "AIRCRAFT DESIGN-II",
+    "Credits": "4"
+  },
+  {
+    "dataId": 18,
+    "courseCode": "AE471",
+    "courseName": "B TECH PROJECT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 19,
+    "courseCode": "AE472",
+    "courseName": "UNDERGRADUATE PROJECT III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 20,
+    "courseCode": "AE481",
+    "courseName": "BOUNDARY LAYER THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 21,
+    "courseCode": "AE601",
+    "courseName": "INTRO TO AEROSPACE ENGG.",
+    "Credits": "9"
+  },
+  {
+    "dataId": 22,
+    "courseCode": "AE602",
+    "courseName": "MATHEMATICS FOR AEROSPACE ENGG.",
+    "Credits": "9"
+  },
+  {
+    "dataId": 23,
+    "courseCode": "AE606",
+    "courseName": "UNSTEADY GAS DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 24,
+    "courseCode": "AE608",
+    "courseName": "HEAT TRANSFER IN AEROSPACE APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 25,
+    "courseCode": "AE610",
+    "courseName": "AERODYNAMICS- I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 26,
+    "courseCode": "AE612",
+    "courseName": "AERODYNAMICS II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 27,
+    "courseCode": "AE614",
+    "courseName": "VISCOUS FLOWS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 28,
+    "courseCode": "AE618",
+    "courseName": "FINITE ELEMENT METHODS FOR FLUID DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 29,
+    "courseCode": "AE625",
+    "courseName": "TRANSITION AND TURBULENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 30,
+    "courseCode": "AE630",
+    "courseName": "AUTONOMOUS UNMANNES AERIAL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 31,
+    "courseCode": "AE641",
+    "courseName": "SPACE DYNAMICS-I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 32,
+    "courseCode": "AE647",
+    "courseName": "FLIGHT DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 33,
+    "courseCode": "AE648",
+    "courseName": "FLIGHT STABILITY AND CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 34,
+    "courseCode": "AE649",
+    "courseName": "AUTOMATIC CONTROL OF AIRCRAFT ROCKETS AND SPACECRAFT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 35,
+    "courseCode": "AE663",
+    "courseName": "FUNDAMENTALS OF COMBUSTION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 36,
+    "courseCode": "AE664",
+    "courseName": "APPLIED COMPRESSIBLE FLOWS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 37,
+    "courseCode": "AE665",
+    "courseName": "FINITE VOLUME METHODS IN HEAT MASS & MOMENTUM TRANSFER",
+    "Credits": "9"
+  },
+  {
+    "dataId": 38,
+    "courseCode": "AE667",
+    "courseName": "NANO-PARTICLE AEROSOL DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 39,
+    "courseCode": "AE670",
+    "courseName": "AEROSPACE STRUCTURAL ANALYSIS- I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 40,
+    "courseCode": "AE671",
+    "courseName": "AEROACOUSTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 41,
+    "courseCode": "AE674",
+    "courseName": "ADVANCED HYDRODYNAMIC STABILITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 42,
+    "courseCode": "AE675",
+    "courseName": "INTRODUCTION TO FINITE ELEMENT METHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 43,
+    "courseCode": "AE681",
+    "courseName": "COMPOSITE MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 44,
+    "courseCode": "AE684",
+    "courseName": "AIRCRAFT MATERIALS AND PROCESSES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 45,
+    "courseCode": "AE686",
+    "courseName": "HELICOPTER THEORY : DYNAMICS AND AEROELASTICITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 46,
+    "courseCode": "AE687",
+    "courseName": "AEROSPACE STRUC ANALYSIS II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 47,
+    "courseCode": "AE688",
+    "courseName": "DYNAMICS AND VIBRATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 48,
+    "courseCode": "AE691",
+    "courseName": "OPTIMAL CONTROL AND REINFORCEMENT LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 49,
+    "courseCode": "AE693",
+    "courseName": "AIRCRAFT SRUCTURAL INTEGRITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 50,
+    "courseCode": "AE694",
+    "courseName": "ACOUSTICS IN FLUIDS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 51,
+    "courseCode": "AE698",
+    "courseName": "INTRO TO VIRTUAL INSTRUMENTATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 52,
+    "courseCode": "AE699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 53,
+    "courseCode": "AE704",
+    "courseName": "DEFORMATION AND FRACTURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 54,
+    "courseCode": "AE720",
+    "courseName": "HYPERSONIC FLOWS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 55,
+    "courseCode": "AE755",
+    "courseName": "EXPLOSION AND DETONATION PHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 56,
+    "courseCode": "AE777",
+    "courseName": "OPTIMAL SPACE FLIGHT CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 57,
+    "courseCode": "AE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 58,
+    "courseCode": "AE899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 59,
+    "courseCode": "ART102",
+    "courseName": "INTRODUCTION TO ART APRECIATION & CRITICISM",
+    "Credits": "11"
+  },
+  {
+    "dataId": 60,
+    "courseCode": "ART105",
+    "courseName": "INTRODUCTION TO THE ART OF VIDEO MAKING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 61,
+    "courseCode": "ART402",
+    "courseName": "MODERN ART",
+    "Credits": "9"
+  },
+  {
+    "dataId": 62,
+    "courseCode": "ART406",
+    "courseName": "ART CRITICISM: THEORY AND PRACTICE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 63,
+    "courseCode": "ART701",
+    "courseName": "METHODOLOGY: ART CRITICISM & APPRECIATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 64,
+    "courseCode": "ART703",
+    "courseName": "STUDIO ART PRACTICES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 65,
+    "courseCode": "ART704",
+    "courseName": "ART A MEDIUM OFCOMMUNICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 66,
+    "courseCode": "ART708",
+    "courseName": "RESEARCH METHODS IN VISUAL CULTURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 67,
+    "courseCode": "ART709",
+    "courseName": "TOPICS IN INDIAN FOLK ART",
+    "Credits": "9"
+  },
+  {
+    "dataId": 68,
+    "courseCode": "BSE211",
+    "courseName": "ORGAN SYSTEM, PHYSIOLOGY AND ANATOMY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 69,
+    "courseCode": "BSE221",
+    "courseName": "BIOCHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 70,
+    "courseCode": "BSE222",
+    "courseName": "BIOCHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 71,
+    "courseCode": "BSE223",
+    "courseName": "BIOCHEMISTRY & BIOCHEMICAL ENGINEERING LAB",
+    "Credits": "9"
+  },
+  {
+    "dataId": 72,
+    "courseCode": "BSE301",
+    "courseName": "SCIENTIFIC & PROFESSIONAL COMMUNICATION",
+    "Credits": "2"
+  },
+  {
+    "dataId": 73,
+    "courseCode": "BSE311",
+    "courseName": "MOLECULAR CELL BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 74,
+    "courseCode": "BSE312",
+    "courseName": "MOLECULAR BIOLOGY LAB",
+    "Credits": "9"
+  },
+  {
+    "dataId": 75,
+    "courseCode": "BSE322",
+    "courseName": "BIOINFORMATICS & COMPUTATIONAL BIOLOGY",
+    "Credits": "10"
+  },
+  {
+    "dataId": 76,
+    "courseCode": "BSE399",
+    "courseName": "UG PROJECT (UGP-II)",
+    "Credits": "9"
+  },
+  {
+    "dataId": 77,
+    "courseCode": "BSE411",
+    "courseName": "BIOMATERIALS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 78,
+    "courseCode": "BSE412",
+    "courseName": "BIOMATERIAL, PHYSIOLOGY & BIO- MEMS LABORATORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 79,
+    "courseCode": "BSE421",
+    "courseName": "TISSUE ENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 80,
+    "courseCode": "BSE492",
+    "courseName": "METHODS IN BIOTECHNOLOGY-I, EXPERIMENTAL BIOSEPERATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 81,
+    "courseCode": "BSE499",
+    "courseName": "UNDER GRADUATE PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 82,
+    "courseCode": "BSE601",
+    "courseName": "PROFESSIONAL COMMUNICATION",
+    "Credits": "0"
+  },
+  {
+    "dataId": 83,
+    "courseCode": "BSE602",
+    "courseName": "LABORATORY METHODS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 84,
+    "courseCode": "BSE611",
+    "courseName": "MODERN INSTRUMENTAL METHODS IN BIOLOGICAL SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 85,
+    "courseCode": "BSE612",
+    "courseName": "BIOCHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 86,
+    "courseCode": "BSE613",
+    "courseName": "BIOMATERIALS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 87,
+    "courseCode": "BSE614",
+    "courseName": "TISSUE ENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 88,
+    "courseCode": "BSE615",
+    "courseName": "BIOELECTRICITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 89,
+    "courseCode": "BSE616",
+    "courseName": "BIOPHARMACEUTICALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 90,
+    "courseCode": "BSE631",
+    "courseName": "BIOCHEMISTRY STRUCTURAL BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 91,
+    "courseCode": "BSE633",
+    "courseName": "BIOINFORMATICS AND COMPUTATIONAL BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 92,
+    "courseCode": "BSE642",
+    "courseName": "MICROBIOLOGY AND IMMUNOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 93,
+    "courseCode": "BSE644",
+    "courseName": "OPTICAL MICROSCOPY & BIOIMAGING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 94,
+    "courseCode": "BSE651",
+    "courseName": "CELLULAR MOLECULER BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 95,
+    "courseCode": "BSE652",
+    "courseName": "DEVELOPMENTAL BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 96,
+    "courseCode": "BSE654",
+    "courseName": "HUMAN MOLECULAR GENETICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 97,
+    "courseCode": "BSE655",
+    "courseName": "PHYSIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 98,
+    "courseCode": "BSE656",
+    "courseName": "NEUROBIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 99,
+    "courseCode": "BSE661",
+    "courseName": "BIOLOGICAL MEMBRANES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 100,
+    "courseCode": "BSE662",
+    "courseName": "DECISION MAKING AND THE BRAIN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 101,
+    "courseCode": "BSE699",
+    "courseName": "M.TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 102,
+    "courseCode": "BSE701",
+    "courseName": "SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 103,
+    "courseCode": "BSE702",
+    "courseName": "SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 104,
+    "courseCode": "BSE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 105,
+    "courseCode": "CE",
+    "courseName": "ENVIRONMENTAL QUALITY & POLLUTION MONITORING",
+    "Credits": "10"
+  },
+  {
+    "dataId": 106,
+    "courseCode": "CE213",
+    "courseName": "INTRODUCTION TO ENVIRONMENTAL SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 107,
+    "courseCode": "CE241",
+    "courseName": "SUSTAINABLE BUILT ENVIRONMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 108,
+    "courseCode": "CE242",
+    "courseName": "CIVIL ENGINEERING MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 109,
+    "courseCode": "CE262",
+    "courseName": "ENGINEERING HYDRAULICS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 110,
+    "courseCode": "CE272",
+    "courseName": "STRUCTURAL ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 111,
+    "courseCode": "CE311",
+    "courseName": "ENVIRONMENTAL QUALITY AND POLLUTION",
+    "Credits": "12"
+  },
+  {
+    "dataId": 112,
+    "courseCode": "CE331",
+    "courseName": "GEOINFORMATICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 113,
+    "courseCode": "CE331",
+    "courseName": "GEOINFORMATICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 114,
+    "courseCode": "CE332",
+    "courseName": "UNDER GRADUATE RESEARCH -I",
+    "Credits": "4"
+  },
+  {
+    "dataId": 115,
+    "courseCode": "CE341",
+    "courseName": "CIVIL ENGINEERING COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 116,
+    "courseCode": "CE351",
+    "courseName": "SOIL MECHANICS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 117,
+    "courseCode": "CE352",
+    "courseName": "FOUNDATION DESIGN",
+    "Credits": "3"
+  },
+  {
+    "dataId": 118,
+    "courseCode": "CE361",
+    "courseName": "ENGINEERING HYDROLOGY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 119,
+    "courseCode": "CE371",
+    "courseName": "DESIGN OF STEEL STRUCTURES",
+    "Credits": "6"
+  },
+  {
+    "dataId": 120,
+    "courseCode": "CE372",
+    "courseName": "REINFORCED CEMENT CONCRETE DESIGN",
+    "Credits": "6"
+  },
+  {
+    "dataId": 121,
+    "courseCode": "CE382",
+    "courseName": "TRANSPORTATION ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 122,
+    "courseCode": "CE412",
+    "courseName": "WATER SUPPLY AND WASTEWATER DISPOSAL SYSTEMS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 123,
+    "courseCode": "CE441",
+    "courseName": "CONSTRUCTION MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 124,
+    "courseCode": "CE451",
+    "courseName": "APPLICATION OF GEOTECHNICAL ENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 125,
+    "courseCode": "CE462",
+    "courseName": "HYDRAULIC AND HYDROLOGIC DESIGN",
+    "Credits": "11"
+  },
+  {
+    "dataId": 126,
+    "courseCode": "CE471",
+    "courseName": "SPECIAL TOPICS IN STRUCTURAL DESIGN",
+    "Credits": "11"
+  },
+  {
+    "dataId": 127,
+    "courseCode": "CE481",
+    "courseName": "TRANSPORTATION FACILITIES DESIGN",
+    "Credits": "11"
+  },
+  {
+    "dataId": 128,
+    "courseCode": "CE491",
+    "courseName": "UNDER GRADUATE RESEARCH -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 129,
+    "courseCode": "CE492",
+    "courseName": "UNDER GRADUATE RESEARCH -III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 130,
+    "courseCode": "CE493",
+    "courseName": "UNDER GRADUATE RESEARCH -IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 131,
+    "courseCode": "CE603",
+    "courseName": "MATHEMATICS FOR CIVIL ENGINEERS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 132,
+    "courseCode": "CE604",
+    "courseName": "NUMERICAL METHODS FOR CIVIL ENGINEERS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 133,
+    "courseCode": "CE605",
+    "courseName": "PROBABILITY AND STATISTICS FOR CIVIL ENGINEERS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 134,
+    "courseCode": "CE606",
+    "courseName": "OPTIMIZATION METHODS FOR CIVIL ENGINEERS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 135,
+    "courseCode": "CE610",
+    "courseName": "ADVANCED HYDROLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 136,
+    "courseCode": "CE611",
+    "courseName": "ADVANCED HYDRAULICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 137,
+    "courseCode": "CE613",
+    "courseName": "COMPUTER METHODS IN HYDRAULICS AND HYDROLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 138,
+    "courseCode": "CE616",
+    "courseName": "SEDIMENT TRANSPORTATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 139,
+    "courseCode": "CE618",
+    "courseName": "VADOSE ZONE HYDROLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 140,
+    "courseCode": "CE620",
+    "courseName": "STRUCTURAL DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 141,
+    "courseCode": "CE621",
+    "courseName": "ENGINEERING MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 142,
+    "courseCode": "CE622",
+    "courseName": "STABILITY OF STRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 143,
+    "courseCode": "CE623",
+    "courseName": "EXPERIMENTAL METHODS IN STRUCTURL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 144,
+    "courseCode": "CE624",
+    "courseName": "NONLINEAR STRUCTURAL ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 145,
+    "courseCode": "CE629",
+    "courseName": "EARTHQUAKE ANALYSIS AND DESIGN OF STRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 146,
+    "courseCode": "CE630",
+    "courseName": "ROCK MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 147,
+    "courseCode": "CE631",
+    "courseName": "ADVANCED GEOTECHNICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 148,
+    "courseCode": "CE632",
+    "courseName": "FOUNDATION ANALYSIS AND DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 149,
+    "courseCode": "CE635",
+    "courseName": "FOUNDATION DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 150,
+    "courseCode": "CE637",
+    "courseName": "CONSTITUTIVE MODELING OF FRICTIONAL MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 151,
+    "courseCode": "CE638",
+    "courseName": "GEOTECHNICAL MEASUREMENTS AND EXPLORATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 152,
+    "courseCode": "CE640",
+    "courseName": "INFRASTRUCTURE ASSET MANAGEMENT",
+    "Credits": "6"
+  },
+  {
+    "dataId": 153,
+    "courseCode": "CE641",
+    "courseName": "PROJECT MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 154,
+    "courseCode": "CE642",
+    "courseName": "LABORATORY COURSE IN INFRASTRUCTURE ENGINEERING AND MANAGEMENT",
+    "Credits": "4"
+  },
+  {
+    "dataId": 155,
+    "courseCode": "CE643",
+    "courseName": "INFRASTRUCTURE FINANCING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 156,
+    "courseCode": "CE645",
+    "courseName": "BASIC QUALITY AND SAFETY MANAGEMENT IN CONSTRUCTION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 157,
+    "courseCode": "CE653",
+    "courseName": "ADVANCEMENTS IN CONCRETE",
+    "Credits": "5"
+  },
+  {
+    "dataId": 158,
+    "courseCode": "CE654",
+    "courseName": "CONCRETE SCIENCE AND ENGINEERING PROPERTIES",
+    "Credits": "5"
+  },
+  {
+    "dataId": 159,
+    "courseCode": "CE663",
+    "courseName": "HUMANS, ENVIRONMENT AND SUSTAINABLE DEVELOPMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 160,
+    "courseCode": "CE664",
+    "courseName": "PHYSICO-CHEMICAL PRINCIPLES AND PROCESS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 161,
+    "courseCode": "CE665",
+    "courseName": "ECOLOGICAL AND BIOLOGICAL PRINCIPLES AND PROCESS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 162,
+    "courseCode": "CE666",
+    "courseName": "AIR POLLUTION AND ITS CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 163,
+    "courseCode": "CE669",
+    "courseName": "ATMOSPHERIC PHYSICS AND CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 164,
+    "courseCode": "CE670",
+    "courseName": "ENVIRONMENTAL GEODESY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 165,
+    "courseCode": "CE671",
+    "courseName": "INTRODUCTION TO REMOTE SENSING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 166,
+    "courseCode": "CE672",
+    "courseName": "MACHINE PROCESSING OF REMOTELY SENSED DAT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 167,
+    "courseCode": "CE673",
+    "courseName": "INSTRUMENTATION, LABORATORY AND FIELD PRACTICES IN GEOINFORMATICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 168,
+    "courseCode": "CE674",
+    "courseName": "GLOBAL NAVIGATION SATELLITE SYSTEMS(GNSS)",
+    "Credits": "6"
+  },
+  {
+    "dataId": 169,
+    "courseCode": "CE675",
+    "courseName": "GLOBAL NAVIGATION SATELLITE SYSTEMS (GNSS) FOR SURVEYING & MAPING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 170,
+    "courseCode": "CE676",
+    "courseName": "LASER SCANNING AND PHOTOGRAMMETRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 171,
+    "courseCode": "CE677",
+    "courseName": "INTRODUCTION TO INERTIAL AND MULTI-SENSOR NAVIGATION",
+    "Credits": "6"
+  },
+  {
+    "dataId": 172,
+    "courseCode": "CE678",
+    "courseName": "PHYSICAL GEODESY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 173,
+    "courseCode": "CE683",
+    "courseName": "TRAFFIC ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 174,
+    "courseCode": "CE684",
+    "courseName": "PAVEMENT DESIGN",
+    "Credits": "5"
+  },
+  {
+    "dataId": 175,
+    "courseCode": "CE685",
+    "courseName": "URBAN TRANSPORTATION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 176,
+    "courseCode": "CE697",
+    "courseName": "M TECH SEMINAR I",
+    "Credits": "0"
+  },
+  {
+    "dataId": 177,
+    "courseCode": "CE698",
+    "courseName": "M.TECH SEMINAR 2",
+    "Credits": "0"
+  },
+  {
+    "dataId": 178,
+    "courseCode": "CE699",
+    "courseName": "M. TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 179,
+    "courseCode": "CE723",
+    "courseName": "FINITE ELEMENT METHODS IN CIVIL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 180,
+    "courseCode": "CE732",
+    "courseName": "UNSATURATED SOIL MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 181,
+    "courseCode": "CE734",
+    "courseName": "PLASTIC EQUILIBRIUM IN SOILS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 182,
+    "courseCode": "CE760",
+    "courseName": "SURFACE WATER QUALITY MODELING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 183,
+    "courseCode": "CE761",
+    "courseName": "SUBSURFACE CONTAMINANT FATE AND TRANSPORT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 184,
+    "courseCode": "CE763",
+    "courseName": "SOLID AND HAZARDOUS WASTE MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 185,
+    "courseCode": "CE764",
+    "courseName": "ENVIRONMENT TOXICOLOGY AND RISK ASSESSMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 186,
+    "courseCode": "CE765",
+    "courseName": "INDUSTRIAL WASTE MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 187,
+    "courseCode": "CE766",
+    "courseName": "AGRICULTURAL SUSTAINABILITY AND CLIMATE CHANGE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 188,
+    "courseCode": "CE770",
+    "courseName": "ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS- I",
+    "Credits": "6"
+  },
+  {
+    "dataId": 189,
+    "courseCode": "CE771",
+    "courseName": "ADJUSTMENT COMPUTATIONS FOR GEOINFORMATICS-II",
+    "Credits": "6"
+  },
+  {
+    "dataId": 190,
+    "courseCode": "CE772",
+    "courseName": "REFERENCE FRAMES, COORDINATE SYSTEMS AND MAP PROJECTIONS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 191,
+    "courseCode": "CE773",
+    "courseName": "GEODETIC ASTRONOMY AND INTRODUCTION TO SATELLITE GEODESY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 192,
+    "courseCode": "CE775",
+    "courseName": "INTRODUCTION TO ROAD SAFETY MODELING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 193,
+    "courseCode": "CE783",
+    "courseName": "CHARACTERIZATION OF ENGINEERED PAVEMENT MATERIALS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 194,
+    "courseCode": "CE786",
+    "courseName": "ANALYSIS AND DESIGN OF BITUMINOUS PAVEMENTS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 195,
+    "courseCode": "CE787",
+    "courseName": "COMPUTATIONAL TOOLS FOR TRANSPORTATION  ENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 196,
+    "courseCode": "CE791",
+    "courseName": "LITERATURE SEARCH AND REVIEW",
+    "Credits": "5"
+  },
+  {
+    "dataId": 197,
+    "courseCode": "CE792",
+    "courseName": "SCIENTIFIC WRITING SKILLS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 198,
+    "courseCode": "CE793",
+    "courseName": "SCIENTIFIC PRASENTATION SKILLS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 199,
+    "courseCode": "CE794",
+    "courseName": "SCIENTIFIC DATA ANALYSIS, PRESENTATION AND INTERPRETATION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 200,
+    "courseCode": "CE797",
+    "courseName": "PHD SEMINAR I",
+    "Credits": "0"
+  },
+  {
+    "dataId": 201,
+    "courseCode": "CE798",
+    "courseName": "PHD SEMINAR II",
+    "Credits": "0"
+  },
+  {
+    "dataId": 202,
+    "courseCode": "CE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 203,
+    "courseCode": "CE897",
+    "courseName": "MS RESEARCH SEMINAR I",
+    "Credits": "0"
+  },
+  {
+    "dataId": 204,
+    "courseCode": "CE898",
+    "courseName": "MS RESEARCH SEMINAR II",
+    "Credits": "0"
+  },
+  {
+    "dataId": 205,
+    "courseCode": "CE899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 206,
+    "courseCode": "CECE311P",
+    "courseName": "ENVIRONMENTAL QUALITY AND POLLUTION LAB",
+    "Credits": "3"
+  },
+  {
+    "dataId": 207,
+    "courseCode": "CGS600",
+    "courseName": "COMPUTATIONAL TOOLS FOR COGNITIVE SCIENCE",
+    "Credits": "11"
+  },
+  {
+    "dataId": 208,
+    "courseCode": "CGS601",
+    "courseName": "FUNDAMENTALS OF COGNITIVE PSYCHOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 209,
+    "courseCode": "CGS602",
+    "courseName": "BASIC STATISTICS DATA ANALYSIS & INFERENCE",
+    "Credits": "11"
+  },
+  {
+    "dataId": 210,
+    "courseCode": "CGS603",
+    "courseName": "METHODS AND TOOLS INCOGNITIVE SCIENCE",
+    "Credits": "4"
+  },
+  {
+    "dataId": 211,
+    "courseCode": "CGS609",
+    "courseName": "COGNITIVE NEUROSCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 212,
+    "courseCode": "CGS691",
+    "courseName": "PHILOSOPHICAL INVESTIGATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 213,
+    "courseCode": "CGS698C",
+    "courseName": "BAYESIAN MODELS & DATA ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 214,
+    "courseCode": "CGS698D",
+    "courseName": "NEUROBIOLOGY OFAFFECT &MOTIVATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 215,
+    "courseCode": "CGS703",
+    "courseName": "SELF STUDY PROJECT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 216,
+    "courseCode": "CGS799",
+    "courseName": "PH.D THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 217,
+    "courseCode": "CGS899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 218,
+    "courseCode": "CHE211",
+    "courseName": "FLUID MECHANICS AND ITS APPLICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 219,
+    "courseCode": "CHE221",
+    "courseName": "CHEMICAL ENGINEERINGTHERMODYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 220,
+    "courseCode": "CHE251",
+    "courseName": "INTRODUCTION TO CHE AND PROCESS CALCULATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 221,
+    "courseCode": "CHE261",
+    "courseName": "CHEMICAL PROCESS INDUSTRIES",
+    "Credits": "6"
+  },
+  {
+    "dataId": 222,
+    "courseCode": "CHE300",
+    "courseName": "CHEMICAL ENGINEERING COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 223,
+    "courseCode": "CHE312",
+    "courseName": "HEAT TRANSFER & ITS APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 224,
+    "courseCode": "CHE313",
+    "courseName": "MASS TRANSFER & ITS APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 225,
+    "courseCode": "CHE349",
+    "courseName": "UG PROJECT (UGP- I)",
+    "Credits": "4"
+  },
+  {
+    "dataId": 226,
+    "courseCode": "CHE352",
+    "courseName": "CHEMICAL PROCESS SIMULATION LAB",
+    "Credits": "5"
+  },
+  {
+    "dataId": 227,
+    "courseCode": "CHE362",
+    "courseName": "BIOCHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 228,
+    "courseCode": "CHE381",
+    "courseName": "PROCESSCONTROL",
+    "Credits": "11"
+  },
+  {
+    "dataId": 229,
+    "courseCode": "CHE398",
+    "courseName": "UG PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 230,
+    "courseCode": "CHE453",
+    "courseName": "CHEMICAL ENGINEERING DESIGN",
+    "Credits": "11"
+  },
+  {
+    "dataId": 231,
+    "courseCode": "CHE454",
+    "courseName": "UNIT OPERATIONSINVOLVING PARTICULATE SOLIDS FOR CHEMICAL ENGINEERS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 232,
+    "courseCode": "CHE492",
+    "courseName": "UNIT OPERATIONS AND PROCESS CONTROL LABORATORY",
+    "Credits": "8"
+  },
+  {
+    "dataId": 233,
+    "courseCode": "CHE497",
+    "courseName": "UNDER GRADUATE PROJECT-III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 234,
+    "courseCode": "CHE498",
+    "courseName": "UNDER GRADUATE PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 235,
+    "courseCode": "CHE611",
+    "courseName": "TRANSPORT PHENOMEN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 236,
+    "courseCode": "CHE614",
+    "courseName": "INTRODUCTION TOHYDRODYNAMIC STABILITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 237,
+    "courseCode": "CHE616",
+    "courseName": "INTRODUCTION TO GRANULAR MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 238,
+    "courseCode": "CHE619",
+    "courseName": "ADVANCED FLUID MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 239,
+    "courseCode": "CHE623",
+    "courseName": "THERMODYNAMICS OF FLUIDS AND FLUIDMIXTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 240,
+    "courseCode": "CHE626",
+    "courseName": "PRACTICAL INTRO. TO QUANTUM MECHANICAL METHODS FOR SCIENTISTS & ENGINEERS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 241,
+    "courseCode": "CHE631",
+    "courseName": "CHEMICAL REACTION ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 242,
+    "courseCode": "CHE633",
+    "courseName": "PRINCIPLES OF HETEROGENEOUS CATALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 243,
+    "courseCode": "CHE641",
+    "courseName": "MATHEMATICAL METHODS IN CHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 244,
+    "courseCode": "CHE642",
+    "courseName": "NUMERICAL METHODS INCHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 245,
+    "courseCode": "CHE643",
+    "courseName": "MESOSCALE AND CONTINUUM SIMULATIONS IN CHEMICAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 246,
+    "courseCode": "CHE659",
+    "courseName": "PROCESS ENGG. PRINCIPLES IN MICRO.FABRICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 247,
+    "courseCode": "CHE672",
+    "courseName": "POLYMER PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 248,
+    "courseCode": "CHE677",
+    "courseName": "INTRODUCTION TO PHYSICS OF POLYMERIC SYSTEM",
+    "Credits": "9"
+  },
+  {
+    "dataId": 249,
+    "courseCode": "CHE686",
+    "courseName": "INTEGRATED CATALYSIS REACTION & REACTOR ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 250,
+    "courseCode": "CHE699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 251,
+    "courseCode": "CHE701",
+    "courseName": "M. TECH. SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 252,
+    "courseCode": "CHE702",
+    "courseName": "M TECH SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 253,
+    "courseCode": "CHE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 254,
+    "courseCode": "CHE801",
+    "courseName": "PHD SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 255,
+    "courseCode": "CHE802",
+    "courseName": "PHD SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 256,
+    "courseCode": "CHE899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 257,
+    "courseCode": "CHM101",
+    "courseName": "CHEMISTRY LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 258,
+    "courseCode": "CHM201",
+    "courseName": "BASIC ORGANIC CHEMISTRY-I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 259,
+    "courseCode": "CHM202",
+    "courseName": "BASIC ORGANIC CHEMISTRY -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 260,
+    "courseCode": "CHM222",
+    "courseName": "BASIC PHYSICAL CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 261,
+    "courseCode": "CHM242",
+    "courseName": "BASIC INORGANICCHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 262,
+    "courseCode": "CHM303",
+    "courseName": "ORGANIC CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 263,
+    "courseCode": "CHM305",
+    "courseName": "ORGANIC QUALITATIVE& QUANTITATIVE ANALYSIS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 264,
+    "courseCode": "CHM321",
+    "courseName": "PHYSICAL CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 265,
+    "courseCode": "CHM322",
+    "courseName": "PHYSICAL CHEMISTRY -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 266,
+    "courseCode": "CHM342",
+    "courseName": "INORGANIC CHEMISTRY -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 267,
+    "courseCode": "CHM345",
+    "courseName": "INORGANIC CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 268,
+    "courseCode": "CHM361",
+    "courseName": "CHEMISTRY COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 269,
+    "courseCode": "CHM391",
+    "courseName": "UNDER GRADUATE PROJECT-I",
+    "Credits": "4"
+  },
+  {
+    "dataId": 270,
+    "courseCode": "CHM392",
+    "courseName": "UG PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 271,
+    "courseCode": "CHM401",
+    "courseName": "ORGANIC CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 272,
+    "courseCode": "CHM402",
+    "courseName": "ORGANIC CHEMISTRYII",
+    "Credits": "9"
+  },
+  {
+    "dataId": 273,
+    "courseCode": "CHM404",
+    "courseName": "ORGANIC QUALITATIVE& QUANTITATIVE ANALYSIS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 274,
+    "courseCode": "CHM421",
+    "courseName": "PHYSICAL CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 275,
+    "courseCode": "CHM422",
+    "courseName": "PHYSICAL CHEMISTRY II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 276,
+    "courseCode": "CHM423",
+    "courseName": "PHYSICAL CHEMISTRY LABORATORY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 277,
+    "courseCode": "CHM441",
+    "courseName": "INORGANIC CHEMISTRY I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 278,
+    "courseCode": "CHM442",
+    "courseName": "INORGANIC CHEMSTRYII",
+    "Credits": "9"
+  },
+  {
+    "dataId": 279,
+    "courseCode": "CHM443",
+    "courseName": "INORGANIC CHEMISTRY LAB",
+    "Credits": "6"
+  },
+  {
+    "dataId": 280,
+    "courseCode": "CHM491",
+    "courseName": "UNDER GRADUATE PROJECT-III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 281,
+    "courseCode": "CHM492",
+    "courseName": "UG PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 282,
+    "courseCode": "CHM503",
+    "courseName": "ORGANIC PREPARATION LAB",
+    "Credits": "6"
+  },
+  {
+    "dataId": 283,
+    "courseCode": "CHM521",
+    "courseName": "MATHEMATICS FOR CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 284,
+    "courseCode": "CHM597",
+    "courseName": "MS - PROJECT -B1",
+    "Credits": "24"
+  },
+  {
+    "dataId": 285,
+    "courseCode": "CHM599",
+    "courseName": "MS PROJECT",
+    "Credits": "48"
+  },
+  {
+    "dataId": 286,
+    "courseCode": "CHM600",
+    "courseName": "MATHEMATICS FOR CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 287,
+    "courseCode": "CHM609",
+    "courseName": "PRINCIPLES OF ORGANIC CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 288,
+    "courseCode": "CHM611",
+    "courseName": "PHYSICAL ORGANIC CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 289,
+    "courseCode": "CHM621",
+    "courseName": "CHEMICAL BINDING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 290,
+    "courseCode": "CHM626",
+    "courseName": "SOLID STATE CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 291,
+    "courseCode": "CHM629",
+    "courseName": "PRINCIPLES OF PHYSICAL CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 292,
+    "courseCode": "CHM631",
+    "courseName": "APPLICATIONS OF MODERN INSTRUMENTAL METHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 293,
+    "courseCode": "CHM636",
+    "courseName": "PHYSICAL PHOTOCHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 294,
+    "courseCode": "CHM637",
+    "courseName": "MOLECULAR SPECTROSCOPY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 295,
+    "courseCode": "CHM646",
+    "courseName": "BIO-INORGANIC CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 296,
+    "courseCode": "CHM647",
+    "courseName": "MACROCYCLES, RINGS AND POLYMERS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 297,
+    "courseCode": "CHM648",
+    "courseName": "THE CHEMISTRY OF METAL-CARBON BOND: STRUCTURE REACTIVITY & APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 298,
+    "courseCode": "CHM649",
+    "courseName": "PRINCIPALES OF INORGANIC CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 299,
+    "courseCode": "CHM650",
+    "courseName": "STATISTICAL MECHANICS & ITS APPL. TO CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 300,
+    "courseCode": "CHM655",
+    "courseName": "ORGANOMETALLICCHEMISTRY AND CATALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 301,
+    "courseCode": "CHM656",
+    "courseName": "ORGANIC STRUCTURE DETERMINATION BY SPECTROSCOPIC TECHNIQUES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 302,
+    "courseCode": "CHM662",
+    "courseName": "CHEMISTRY OF NATURAL PRODUCTS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 303,
+    "courseCode": "CHM664",
+    "courseName": "MODERN PHYSICAL METHODS IN CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 304,
+    "courseCode": "CHM667",
+    "courseName": "QUANTUM DYNAMICS IN CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 305,
+    "courseCode": "CHM668",
+    "courseName": "ADVANCED MAIN GROUPCHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 306,
+    "courseCode": "CHM681",
+    "courseName": "BASIC BIOLOGICAL CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 307,
+    "courseCode": "CHM682",
+    "courseName": "MODERN CHEMISTRY AND APPLICATIONS OF LANTHANIDES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 308,
+    "courseCode": "CHM685",
+    "courseName": "MOLECULE RADIATION INTERACTION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 309,
+    "courseCode": "CHM691",
+    "courseName": "FRONTIERS IN INORGANIC CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 310,
+    "courseCode": "CHM695",
+    "courseName": "MOLECULAR MODELLING IN CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 311,
+    "courseCode": "CHM696",
+    "courseName": "QUANTUM COMPUTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 312,
+    "courseCode": "CHM698",
+    "courseName": "SPECIAL TOPICS IN PHYSICAL CHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 313,
+    "courseCode": "CHM699",
+    "courseName": "LASERS IN CHEMISTRY AND BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 314,
+    "courseCode": "CHM700",
+    "courseName": "PROJECT",
+    "Credits": "27"
+  },
+  {
+    "dataId": 315,
+    "courseCode": "CHM799",
+    "courseName": "RESEARCH",
+    "Credits": "0"
+  },
+  {
+    "dataId": 316,
+    "courseCode": "CHM800",
+    "courseName": "GENERAL SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 317,
+    "courseCode": "CHM801",
+    "courseName": "GRADUATE SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 318,
+    "courseCode": "COM200",
+    "courseName": "COMMUNICATION SKILLS: COMPOSITION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 319,
+    "courseCode": "CS201",
+    "courseName": "MATHEMATICS FOR COMPUTER SCIENCE - I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 320,
+    "courseCode": "CS202",
+    "courseName": "MATHEMATICS FORCOMPUTER SCIENCE -II",
+    "Credits": "5"
+  },
+  {
+    "dataId": 321,
+    "courseCode": "CS203",
+    "courseName": "MATHEMATICS FORCOMPUTER SCIENCE -III",
+    "Credits": "5"
+  },
+  {
+    "dataId": 322,
+    "courseCode": "CS220",
+    "courseName": "COMPUTER ORGANIZATION",
+    "Credits": "12"
+  },
+  {
+    "dataId": 323,
+    "courseCode": "CS253",
+    "courseName": "SOFTWARE DEVELOPMENT AND OPERATIONS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 324,
+    "courseCode": "CS300",
+    "courseName": "TECHNICAL COMMUNICATION",
+    "Credits": "2"
+  },
+  {
+    "dataId": 325,
+    "courseCode": "CS315",
+    "courseName": "PRINCIPLES OF DATA BASE SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 326,
+    "courseCode": "CS330",
+    "courseName": "OPERATING SYSTEMS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 327,
+    "courseCode": "CS335",
+    "courseName": "COMPILER DESIGN",
+    "Credits": "13"
+  },
+  {
+    "dataId": 328,
+    "courseCode": "CS340",
+    "courseName": "THEORY OF COMPUTATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 329,
+    "courseCode": "CS345",
+    "courseName": "ALGORITHMS - II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 330,
+    "courseCode": "CS350",
+    "courseName": "PRINCIPLES OF PROGRAMMING LANGAUGES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 331,
+    "courseCode": "CS395",
+    "courseName": "UG PROJECT (UGP- I)",
+    "Credits": "4"
+  },
+  {
+    "dataId": 332,
+    "courseCode": "CS396",
+    "courseName": "UG PROJECT (UGP- II)",
+    "Credits": "9"
+  },
+  {
+    "dataId": 333,
+    "courseCode": "CS422",
+    "courseName": "COMPUTER ARCHITECTURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 334,
+    "courseCode": "CS425",
+    "courseName": "COMPUTER NETWORKS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 335,
+    "courseCode": "CS498",
+    "courseName": "UNDER GRADUATE PROJECT-III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 336,
+    "courseCode": "CS499",
+    "courseName": "UNDER GRADUATE PROJECT-IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 337,
+    "courseCode": "CS628",
+    "courseName": "COMPUTER SYSTEMS SECURITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 338,
+    "courseCode": "CS631",
+    "courseName": "CYBER SECURITY OF CRITICAL INFRASTRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 339,
+    "courseCode": "CS633",
+    "courseName": "PARALLELCOMPUTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 340,
+    "courseCode": "CS636",
+    "courseName": "ANALYSIS OFCONCURRENT PROGRAMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 341,
+    "courseCode": "CS637",
+    "courseName": "EMBEDDED AND CYBER- PHYSICAL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 342,
+    "courseCode": "CS639",
+    "courseName": "PROGRAM ANALYSIS, VERIFICATION AND TESTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 343,
+    "courseCode": "CS640",
+    "courseName": "COMPUTATIONAL COMPLEXITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 344,
+    "courseCode": "CS641",
+    "courseName": "MODERNCRYPTOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 345,
+    "courseCode": "CS646",
+    "courseName": "PARALLEL ALGORITHMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 346,
+    "courseCode": "CS647",
+    "courseName": "ADVANCED TOPICS INALGORITHMS & DATA STRCUTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 347,
+    "courseCode": "CS648",
+    "courseName": "RANDOMIZEDALGORITHMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 348,
+    "courseCode": "CS652",
+    "courseName": "COMPUTER AIDED VERIFICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 349,
+    "courseCode": "CS656",
+    "courseName": "ALGORITHMIC GAME THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 350,
+    "courseCode": "CS659",
+    "courseName": "AUTONOMOUS CYBER-PHYSICAL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 351,
+    "courseCode": "CS682",
+    "courseName": "QUANTUMCOMPUTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 352,
+    "courseCode": "CS685",
+    "courseName": "DATA MINING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 353,
+    "courseCode": "CS687",
+    "courseName": "ALGORITHMIC INFORMATION THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 354,
+    "courseCode": "CS697",
+    "courseName": "SPECIAL TOPICS IN COMPUTER SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 355,
+    "courseCode": "CS698C",
+    "courseName": "SKETCHING AND SAMPLING FOR BIG DATA ANALYSIS (NUMERICAL LINEAR ALGEBRA)",
+    "Credits": "9"
+  },
+  {
+    "dataId": 356,
+    "courseCode": "CS698Q",
+    "courseName": "COMPLEXITY MEASURES FOR BOOLEAN FUNCTIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 357,
+    "courseCode": "CS698R",
+    "courseName": "DEEP REINFORCEMENT LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 358,
+    "courseCode": "CS698",
+    "courseName": "INTRODUCTION TO INTERNET OF THINGS AND ITS INDUSTRIAL APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 359,
+    "courseCode": "CS698U",
+    "courseName": "HARDWARE SECURITY OF INTERNET OF THINGS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 360,
+    "courseCode": "CS698V",
+    "courseName": "INTRODUCTION TOLAMBDA CALCULUS, TYPES, & MODELS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 361,
+    "courseCode": "CS698X",
+    "courseName": "TOPICS IN PROBABILISTIC MODELING AND INFERENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 362,
+    "courseCode": "CS699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 363,
+    "courseCode": "CS711",
+    "courseName": "INTRODUCTION TO GAME THEORY AND MECHANISM DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 364,
+    "courseCode": "CS771",
+    "courseName": "INTRODUCTION TO MACHINE LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 365,
+    "courseCode": "CS779",
+    "courseName": "STATISTICAL NATURAL LANGUAGE PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 366,
+    "courseCode": "CS786",
+    "courseName": "COMPUTATIONAL COGNITIVE SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 367,
+    "courseCode": "CS797",
+    "courseName": "SPECIAL TOPICS IN COMPUTER SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 368,
+    "courseCode": "CS799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 369,
+    "courseCode": "CS899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 370,
+    "courseCode": "CSO201",
+    "courseName": "ORGANIC CHEMISTRY:FUNDAMENTALS ANDAPPLICATIONS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 371,
+    "courseCode": "CSO202",
+    "courseName": "ATOMS, MOLECULES AND PHOTONS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 372,
+    "courseCode": "DES601",
+    "courseName": "DESIGN THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 373,
+    "courseCode": "DES602",
+    "courseName": "DESIGN PRACTICE I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 374,
+    "courseCode": "DES623",
+    "courseName": "TOPICS IN MOTION PICTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 375,
+    "courseCode": "DES624",
+    "courseName": "ELEMENTS AND PRINCIPAL OF DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 376,
+    "courseCode": "DES627",
+    "courseName": "MANAGEMENT OFDESIGN AND INNOVATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 377,
+    "courseCode": "DES633",
+    "courseName": "INTEGRATED PRODUCT DEVELOPMENT- I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 378,
+    "courseCode": "DES681",
+    "courseName": "DESIGN PROJECT I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 379,
+    "courseCode": "DES682",
+    "courseName": "DESIGN PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 380,
+    "courseCode": "DES699",
+    "courseName": "M DES THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 381,
+    "courseCode": "DES799",
+    "courseName": "PH.D THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 382,
+    "courseCode": "ECO101",
+    "courseName": "INTRODUCTION TO ECONOMICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 383,
+    "courseCode": "ECO201",
+    "courseName": "MICROECONOMICS I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 384,
+    "courseCode": "ECO221",
+    "courseName": "MACROECONOMICS I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 385,
+    "courseCode": "ECO261",
+    "courseName": "INTRODUCTION TOMATHEMATICAL ECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 386,
+    "courseCode": "ECO301",
+    "courseName": "MICROECONOMICS II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 387,
+    "courseCode": "ECO311",
+    "courseName": "DEVELOPMENTECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 388,
+    "courseCode": "ECO321",
+    "courseName": "MACROECONOMICS- II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 389,
+    "courseCode": "ECO341",
+    "courseName": "ECONOMETRICS I",
+    "Credits": "12"
+  },
+  {
+    "dataId": 390,
+    "courseCode": "ECO342",
+    "courseName": "ECONOMETRICS II",
+    "Credits": "12"
+  },
+  {
+    "dataId": 391,
+    "courseCode": "ECO397",
+    "courseName": "TECHNICAL COMMUNICATION",
+    "Credits": "2"
+  },
+  {
+    "dataId": 392,
+    "courseCode": "ECO398",
+    "courseName": "UG PROJECT (UGP- I)",
+    "Credits": "4"
+  },
+  {
+    "dataId": 393,
+    "courseCode": "ECO399",
+    "courseName": "UG PROJECT -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 394,
+    "courseCode": "ECO411",
+    "courseName": "INDUSTRIAL ECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 395,
+    "courseCode": "ECO412",
+    "courseName": "INTERNATIONAL ECONOMICS AND FINANCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 396,
+    "courseCode": "ECO413",
+    "courseName": "INDIAN ECONOMIC PROBLEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 397,
+    "courseCode": "ECO498",
+    "courseName": "UNDER GRADUATE PROJECT-III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 398,
+    "courseCode": "ECO499",
+    "courseName": "UNDER GRADUATEPROJECT-IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 399,
+    "courseCode": "ECO501",
+    "courseName": "ENVIRONMENTAL ECONOMICS AND POLICY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 400,
+    "courseCode": "ECO502",
+    "courseName": "APPLIED GAME THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 401,
+    "courseCode": "ECO504",
+    "courseName": "ECONOMIC ANALYSIS OF LAW",
+    "Credits": "9"
+  },
+  {
+    "dataId": 402,
+    "courseCode": "ECO507",
+    "courseName": "TOPICS IN MANAGERIAL ECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 403,
+    "courseCode": "ECO521",
+    "courseName": "MONEY ANDBANKING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 404,
+    "courseCode": "ECO522",
+    "courseName": "MONETARY ECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 405,
+    "courseCode": "ECO523",
+    "courseName": "ECONOMIC GROWTH THEORY AND PRACTICE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 406,
+    "courseCode": "ECO699",
+    "courseName": "M SC THESIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 407,
+    "courseCode": "ECO732",
+    "courseName": "ECONOMETRICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 408,
+    "courseCode": "ECO735",
+    "courseName": "DEVELOPMENTECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 409,
+    "courseCode": "ECO737",
+    "courseName": "ADVANCES IN MICROECONOMIC THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 410,
+    "courseCode": "ECO745",
+    "courseName": "ADVANCED MONETARY THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 411,
+    "courseCode": "ECO747",
+    "courseName": "ENVIRONMENTAL ECONOMICS LEGISLATION AND SOCIAL IMPACT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 412,
+    "courseCode": "ECO750",
+    "courseName": "ADVANCEDMACROECONOMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 413,
+    "courseCode": "ECO752",
+    "courseName": "QUANTITATIVE ANALYSIS OF INTERNATIONAL TRADE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 414,
+    "courseCode": "ECO754",
+    "courseName": "GAME THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 415,
+    "courseCode": "ECO756",
+    "courseName": "PROGRAMME EVALUATION: METHODS AND APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 416,
+    "courseCode": "ECO758",
+    "courseName": "TOPICS IN ECONOMIC GROWTH",
+    "Credits": "9"
+  },
+  {
+    "dataId": 417,
+    "courseCode": "ECO761",
+    "courseName": "APPLIED ECONOMETRICS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 418,
+    "courseCode": "ECO764",
+    "courseName": "FINANCIALECONOMETRICS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 419,
+    "courseCode": "ECO799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 420,
+    "courseCode": "EE",
+    "courseName": "NONLINEAR",
+    "Credits": "9"
+  },
+  {
+    "dataId": 421,
+    "courseCode": "EE200",
+    "courseName": "SIGNALS, SYSTEMS & NETWORKS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 422,
+    "courseCode": "EE210",
+    "courseName": "MICROELECTRONICS-I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 423,
+    "courseCode": "EE250",
+    "courseName": "CONTROL SYSTEMSANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 424,
+    "courseCode": "EE301",
+    "courseName": "DIGITAL SIGNALPROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 425,
+    "courseCode": "EE311",
+    "courseName": "MICROELECTRONICS II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 426,
+    "courseCode": "EE320",
+    "courseName": "PRINCIPLES OF COMMUNICATION",
+    "Credits": "11"
+  },
+  {
+    "dataId": 427,
+    "courseCode": "EE321",
+    "courseName": "COMMUNICATIONSYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 428,
+    "courseCode": "EE330",
+    "courseName": "POWER SYSTEMS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 429,
+    "courseCode": "EE340",
+    "courseName": "ELECTROMAGNETIC THEORY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 430,
+    "courseCode": "EE360",
+    "courseName": "POWER ELECTRONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 431,
+    "courseCode": "EE370",
+    "courseName": "DIGITAL ELECTRONICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 432,
+    "courseCode": "EE380",
+    "courseName": "ELECTRICAL ENGINEERING LAB I",
+    "Credits": "12"
+  },
+  {
+    "dataId": 433,
+    "courseCode": "EE390",
+    "courseName": "ELECTRICAL ENGINEERING COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 434,
+    "courseCode": "EE391",
+    "courseName": "ELECTRICAL ENGINEERING UNDER GRADUATE PROJECT I",
+    "Credits": "4"
+  },
+  {
+    "dataId": 435,
+    "courseCode": "EE392",
+    "courseName": "UNDER GRADUATEPROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 436,
+    "courseCode": "EE480",
+    "courseName": "ELECTRICAL ENGINEERING LAB I",
+    "Credits": "10"
+  },
+  {
+    "dataId": 437,
+    "courseCode": "EE491",
+    "courseName": "UNDER GRADUATE PROJECT -III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 438,
+    "courseCode": "EE492",
+    "courseName": "UNDER GRADUATEPROJECT-IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 439,
+    "courseCode": "EE600",
+    "courseName": "MATHEMATICAL STRUCTURES OF SIGNALS & SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 440,
+    "courseCode": "EE602",
+    "courseName": "STATISTICAL SIGNAL PROCESSING-I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 441,
+    "courseCode": "EE603",
+    "courseName": "MACHINE LEARNING FOR SIGNAL PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 442,
+    "courseCode": "EE604",
+    "courseName": "IMAGE PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 443,
+    "courseCode": "EE605",
+    "courseName": "INTRODUCTION TO SIGNAL ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 444,
+    "courseCode": "EE606",
+    "courseName": "OPTIMIZATION FOR BIG DAT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 445,
+    "courseCode": "EE609",
+    "courseName": "CONVEX OPTIMIZATIONIN SIGNAL PROCESSINGAND COMMUNICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 446,
+    "courseCode": "EE610",
+    "courseName": "ANALOG/DIGITAL VLSI CIRCUITS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 447,
+    "courseCode": "EE614",
+    "courseName": "SOLID STATE DEVICES I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 448,
+    "courseCode": "EE616",
+    "courseName": "SEMICONDUCTOR DEVICE MODELLING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 449,
+    "courseCode": "EE617",
+    "courseName": "INDUSTRIAL AUTOMATION AND CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 450,
+    "courseCode": "EE618",
+    "courseName": "INTEGRATED CIRCUIT FABRICATION TECHNOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 451,
+    "courseCode": "EE619",
+    "courseName": "VLSI SYSTEM DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 452,
+    "courseCode": "EE620",
+    "courseName": "OPTICAL COHERENT IMAGING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 453,
+    "courseCode": "EE621",
+    "courseName": "REPRESENTATION AND ANALYSIS OF RANDOM SIGNALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 454,
+    "courseCode": "EE623",
+    "courseName": "DETECTION & ESTIMATION THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 455,
+    "courseCode": "EE626",
+    "courseName": "TOPICS IN STOCHASTICPROCESSES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 456,
+    "courseCode": "EE627",
+    "courseName": "SPEECH SIGNALPROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 457,
+    "courseCode": "EE629",
+    "courseName": "DIGITAL SWITCHING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 458,
+    "courseCode": "EE630",
+    "courseName": "SIMULATON OF MODERN POWER SYSTEMS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 459,
+    "courseCode": "EE631",
+    "courseName": "ADVANCED POWER SYSTEM STABILITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 460,
+    "courseCode": "EE632",
+    "courseName": "ECONOMIC OPERATION & CONTROL OF POWER SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 461,
+    "courseCode": "EE633",
+    "courseName": "ELECTRIC POWER SYSTEM OPERATION AND MGMT. UNDER RESTRUCTURED ENVIRONMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 462,
+    "courseCode": "EE634",
+    "courseName": "ELECTRICAL INSULATION IN POWER APPARATUS AND SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 463,
+    "courseCode": "EE637",
+    "courseName": "SYNCHROPHASOR TECHNOLOGY AND ITS APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 464,
+    "courseCode": "EE638",
+    "courseName": "ADVANCED RF ANTENNAS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 465,
+    "courseCode": "EE641",
+    "courseName": "ADVANCED ENGINEERING ELECTROMAGNETICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 466,
+    "courseCode": "EE643",
+    "courseName": "SMART ANTENNAS FOR MOBILE COMMUNICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 467,
+    "courseCode": "EE644",
+    "courseName": "ELECTROMAGNETIC INTERFERENCE AND COMPATIBILITY TECHNIQUES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 468,
+    "courseCode": "EE645",
+    "courseName": "MONOLITHIC MICROWAVE ICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 469,
+    "courseCode": "EE647",
+    "courseName": "MICROWAVE MEASUREMENTS AND DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 470,
+    "courseCode": "EE648",
+    "courseName": "MICROWAVE CIRCUITS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 471,
+    "courseCode": "EE649",
+    "courseName": "THE FINITE ELEMENTMETHOD FOR ELECTRIC AND MAGNETIC FIELDS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 472,
+    "courseCode": "EE650",
+    "courseName": "BASICS OF MODERN CONTROL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 473,
+    "courseCode": "EE651",
+    "courseName": "NONLINEAR SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 474,
+    "courseCode": "EE653",
+    "courseName": "DIGITAL CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 475,
+    "courseCode": "EE654",
+    "courseName": "ROBUST CONTROL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 476,
+    "courseCode": "EE657",
+    "courseName": "KALMAN FILTERING & APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 477,
+    "courseCode": "EE658",
+    "courseName": "FUZZY SET, LOGIC & SYSTEMS &APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 478,
+    "courseCode": "EE659",
+    "courseName": "COMPUTATIONAL ASPECTS OF TOMOGRAPHIC IMAGING : MODELS TOINVERSIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 479,
+    "courseCode": "EE660",
+    "courseName": "BASICS OF POWER ELECTRONIC CONVERTERS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 480,
+    "courseCode": "EE662",
+    "courseName": "CONTROL TECHNIQUES INPOWER ELECTRONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 481,
+    "courseCode": "EE664",
+    "courseName": "FUNDAMENTALS OF ELECTRIC DRIVES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 482,
+    "courseCode": "EE665",
+    "courseName": "ADVANCED ELECTRIC DRIVES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 483,
+    "courseCode": "EE667",
+    "courseName": "INFORMATION THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 484,
+    "courseCode": "EE668",
+    "courseName": "CODING THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 485,
+    "courseCode": "EE670",
+    "courseName": "WIRELESS COMMUNICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 486,
+    "courseCode": "EE673",
+    "courseName": "DIGITAL COMMUNICATION NETWORKS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 487,
+    "courseCode": "EE677",
+    "courseName": "MIMO WIRELESS COMMUNICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 488,
+    "courseCode": "EE678",
+    "courseName": "POWER MANAGEMENT CIRCUITS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 489,
+    "courseCode": "EE679",
+    "courseName": "SMART GRID TECHNOLOGIES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 490,
+    "courseCode": "EE681",
+    "courseName": "COMPACT MODELING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 491,
+    "courseCode": "EE683",
+    "courseName": "QUANTUM AND WAVE PHENOMEN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 492,
+    "courseCode": "EE684",
+    "courseName": "FIBER-OPTIC COMMUNICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 493,
+    "courseCode": "EE685",
+    "courseName": "SEMICONDUCTOR OPTICAL COMMUNICATION DEVICES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 494,
+    "courseCode": "EE698",
+    "courseName": "PHYSICS OF SEMICONDUCTORS & NANOSTRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 495,
+    "courseCode": "EE698",
+    "courseName": "HIGH FREQUENCYANALOG CIRCUITDESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 496,
+    "courseCode": "EE698C",
+    "courseName": "PEER TO PEERNETWORKS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 497,
+    "courseCode": "EE698D",
+    "courseName": "SPECIAL TOPICS IN MICROELECTRONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 498,
+    "courseCode": "EE698E",
+    "courseName": "POWER CONVERTERS FOR EV CHARGING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 499,
+    "courseCode": "EE698F",
+    "courseName": "RF MICROELECTRONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 500,
+    "courseCode": "EE698L",
+    "courseName": "ARTIFICIALINTELLIGENCE, MACHINE LEARNING & ITSAPPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 501,
+    "courseCode": "EE698N",
+    "courseName": "INTRODUCTION TOFLEXIBLE ELECTRONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 502,
+    "courseCode": "EE698O",
+    "courseName": "ANALYSIS OF MODERNWIRELESSNETWORKS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 503,
+    "courseCode": "EE698P",
+    "courseName": "MEMORY TECHNOLOGY& NEUROMORPHIC COMPUTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 504,
+    "courseCode": "EE698R",
+    "courseName": "ADVANCED TOPICS INMACHINE LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 505,
+    "courseCode": "EE698S",
+    "courseName": "HIGH VOLTAGE POWER TRANSMISSION ENGINEEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 506,
+    "courseCode": "EE698",
+    "courseName": "CHARGE AND HEATTRANSPORT IN SEMICONDUCTORS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 507,
+    "courseCode": "EE698Z",
+    "courseName": "MACHINE LEARNING FOR WIRELESSCOMMUNICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 508,
+    "courseCode": "EE699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 509,
+    "courseCode": "EE705",
+    "courseName": "INTELLIGENT SYSTEMS & CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 510,
+    "courseCode": "EE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 511,
+    "courseCode": "EE899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 512,
+    "courseCode": "ENG112C",
+    "courseName": "ENGLISH LANGUAGE AND COMMUNICATION SKILLS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 513,
+    "courseCode": "ENG122",
+    "courseName": "INTRODUCTION TOLINGUISTICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 514,
+    "courseCode": "ENG123",
+    "courseName": "INTRODUCTION TO LITERATURE",
+    "Credits": "11"
+  },
+  {
+    "dataId": 515,
+    "courseCode": "ENG124",
+    "courseName": "LANGUAGE AND SOCIETY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 516,
+    "courseCode": "ENG423",
+    "courseName": "CURRENT ISSUES IN LINGUISTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 517,
+    "courseCode": "ENG436",
+    "courseName": "THE WRITER'S VISION OFTHE FUTURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 518,
+    "courseCode": "ENG439",
+    "courseName": "LITERATURE AND CENSORSHIP",
+    "Credits": "9"
+  },
+  {
+    "dataId": 519,
+    "courseCode": "ENG452",
+    "courseName": "LINGUISTIC TYPOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 520,
+    "courseCode": "ENG457",
+    "courseName": "FILM AND THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 521,
+    "courseCode": "ENG701",
+    "courseName": "FUNDAMENTALS OF MODERN LINGUISTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 522,
+    "courseCode": "ENG707",
+    "courseName": "LANGUAGE CURRICULUM DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 523,
+    "courseCode": "ENG708",
+    "courseName": "APPLIED LINGUISTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 524,
+    "courseCode": "ENG709",
+    "courseName": "LINGUISTIC ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 525,
+    "courseCode": "ENG716",
+    "courseName": "INDIVIDUAL PROJECTS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 526,
+    "courseCode": "ENG719",
+    "courseName": "AMERICANRENAISSANCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 527,
+    "courseCode": "ENG743",
+    "courseName": "FEMINIST THEORY AND LITERATURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 528,
+    "courseCode": "ENG744",
+    "courseName": "DOCUMENTARY FILM- HISTORY & THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 529,
+    "courseCode": "ENG749",
+    "courseName": "POSTMODERN THEORY AND LITERATURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 530,
+    "courseCode": "ENG750",
+    "courseName": "POSTWAR AMERICAN FICTION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 531,
+    "courseCode": "ENG751",
+    "courseName": "CONTEMPORARY CRITICAL THEORIES & LITERARY PRAXES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 532,
+    "courseCode": "ENG753",
+    "courseName": "TRANSLATION STUDIES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 533,
+    "courseCode": "ENG754",
+    "courseName": "HISTORICAL LINGUISTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 534,
+    "courseCode": "ENG764",
+    "courseName": "INDIAN EPIC NARRATIVES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 535,
+    "courseCode": "ENG765",
+    "courseName": "FILM THEORY ANDHISTORIOGRAPHY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 536,
+    "courseCode": "ENG777",
+    "courseName": "PERSPECTIVES OF THE POSTHUMAN AND / IN THE ANTHROPOCENE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 537,
+    "courseCode": "ENG799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 538,
+    "courseCode": "ES311",
+    "courseName": "CRYSTALLOGRAPHY AND MINERALOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 539,
+    "courseCode": "ES311P",
+    "courseName": "CRYSTALLOGRAPHY AND MINERALOGYLAB",
+    "Credits": "2"
+  },
+  {
+    "dataId": 540,
+    "courseCode": "ES312",
+    "courseName": "FIELD GEOLOGY-I",
+    "Credits": "3"
+  },
+  {
+    "dataId": 541,
+    "courseCode": "ES313",
+    "courseName": "GEOMORPHOLOGY ANDEARTH SURFACE PROCESSES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 542,
+    "courseCode": "ES314",
+    "courseName": "FUNDAMENTALS OFGEOPHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 543,
+    "courseCode": "ES315",
+    "courseName": "IGNEOUS &METAMORPHIC PETROLOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 544,
+    "courseCode": "ES391",
+    "courseName": "UNDER GRADUATE PROJECT -1",
+    "Credits": "4"
+  },
+  {
+    "dataId": 545,
+    "courseCode": "ES392",
+    "courseName": "UNDER GRADUATEPROJECT -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 546,
+    "courseCode": "ES393",
+    "courseName": "UNDER GRADUATE PROJECT -III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 547,
+    "courseCode": "ES394",
+    "courseName": "UNDER GRADUATEPROJECT -IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 548,
+    "courseCode": "ES400",
+    "courseName": "COMMUNICATION SKILLS IN EARTH SCIENCES",
+    "Credits": "2"
+  },
+  {
+    "dataId": 549,
+    "courseCode": "ES411",
+    "courseName": "STRUCTURAL GEOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 550,
+    "courseCode": "ES412",
+    "courseName": "SEDIMENTARY PROCESSES & STRATIGRAPHIC PRINCIPLES",
+    "Credits": "8"
+  },
+  {
+    "dataId": 551,
+    "courseCode": "ES413",
+    "courseName": "GEOCHEMISTRY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 552,
+    "courseCode": "ES414",
+    "courseName": "FIELD GEOLOGY II",
+    "Credits": "6"
+  },
+  {
+    "dataId": 553,
+    "courseCode": "ES415",
+    "courseName": "GEOLOGICAL REMOTE SENSING AND GIS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 554,
+    "courseCode": "ES416",
+    "courseName": "EXPLORATION GEOPHYSICS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 555,
+    "courseCode": "ES417",
+    "courseName": "GEOLOGICAL EVOLUTION OF INDIAN PLATE",
+    "Credits": "6"
+  },
+  {
+    "dataId": 556,
+    "courseCode": "ES418",
+    "courseName": "FIELD GEOLOGY III",
+    "Credits": "4"
+  },
+  {
+    "dataId": 557,
+    "courseCode": "ES419",
+    "courseName": "HYDROLOGICAL SYSTEMS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 558,
+    "courseCode": "ES450",
+    "courseName": "ECONOMIC GEOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 559,
+    "courseCode": "ES451",
+    "courseName": "ENVIRONMENTAL GEOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 560,
+    "courseCode": "ES453",
+    "courseName": "MICROSTRUCTURES IN EARTH SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 561,
+    "courseCode": "ES455",
+    "courseName": "ANALYTICAL METHODS IN EARTH SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 562,
+    "courseCode": "ES599",
+    "courseName": "MS PROJECT",
+    "Credits": "36"
+  },
+  {
+    "dataId": 563,
+    "courseCode": "ES644",
+    "courseName": "REMOTE SENSING AND GIS FOR GEO- RESOURCE EVALUATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 564,
+    "courseCode": "ES645",
+    "courseName": "RIVER SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 565,
+    "courseCode": "ES647",
+    "courseName": "GEOLOGY AND GEOCHEMISTRY OF PETROLEUM",
+    "Credits": "9"
+  },
+  {
+    "dataId": 566,
+    "courseCode": "ES648",
+    "courseName": "INSTRUMENTATION INEARTH SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 567,
+    "courseCode": "ES649",
+    "courseName": "ISOTOPE GEOCHEMISTRY AND APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 568,
+    "courseCode": "ES650",
+    "courseName": "COMMUNICATION SKILLS IN EARTH SCIENCES",
+    "Credits": "0"
+  },
+  {
+    "dataId": 569,
+    "courseCode": "ES651",
+    "courseName": "MATHEMATICS FOR EARTH SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 570,
+    "courseCode": "ES655",
+    "courseName": "SOLID EARTH GEOPHYSICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 571,
+    "courseCode": "ES657",
+    "courseName": "EXPERIMENTAL ROCKMECHANICS & ROCKPHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 572,
+    "courseCode": "ES658",
+    "courseName": "NATURAL HAZARDS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 573,
+    "courseCode": "ES662",
+    "courseName": "ADVANCED METAMORPHIC PETROLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 574,
+    "courseCode": "ES664",
+    "courseName": "ROCK MAGNETISM",
+    "Credits": "9"
+  },
+  {
+    "dataId": 575,
+    "courseCode": "ES666",
+    "courseName": "APPLIED HYDROGEOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 576,
+    "courseCode": "ES667",
+    "courseName": "GEODYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 577,
+    "courseCode": "ES668",
+    "courseName": "OCEANOGRAPHY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 578,
+    "courseCode": "ES683",
+    "courseName": "PLANETARY GEOMORPHOLOGY: PROCESSES AND LANDFORMS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 579,
+    "courseCode": "ES699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 580,
+    "courseCode": "ES799",
+    "courseName": "PH D THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 581,
+    "courseCode": "ESC101",
+    "courseName": "FUNDAMENTAL OF COMPUTING",
+    "Credits": "14"
+  },
+  {
+    "dataId": 582,
+    "courseCode": "ESC201",
+    "courseName": "INTRODUCTION TO ELECTRONICS",
+    "Credits": "14"
+  },
+  {
+    "dataId": 583,
+    "courseCode": "ESC201",
+    "courseName": "INTRODUCTION TOELECTRONICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 584,
+    "courseCode": "ESO201",
+    "courseName": "THERMODYNAMICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 585,
+    "courseCode": "ESO202",
+    "courseName": "MECHANICS OF SOLIDS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 586,
+    "courseCode": "ESO203",
+    "courseName": "INTRODUCTION TO ELECTRICAL ENGINEERING",
+    "Credits": "13"
+  },
+  {
+    "dataId": 587,
+    "courseCode": "ESO203",
+    "courseName": "INTRODUCTION TOELECTRICALENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 588,
+    "courseCode": "ESO204",
+    "courseName": "FLUID MECHANICS AND RATE PROCESSES",
+    "Credits": "11"
+  },
+  {
+    "dataId": 589,
+    "courseCode": "ESO205",
+    "courseName": "NATURE AND PROPERTIES OF MATERIALS",
+    "Credits": "14"
+  },
+  {
+    "dataId": 590,
+    "courseCode": "ESO206",
+    "courseName": "PRINCIPLES OF BIOTECHNOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 591,
+    "courseCode": "ESO207",
+    "courseName": "DATA STRUCTURE & ALGORITHM",
+    "Credits": "12"
+  },
+  {
+    "dataId": 592,
+    "courseCode": "ESO208",
+    "courseName": "COMPUTATIONAL METHODS IN ENGINEERING",
+    "Credits": "11"
+  },
+  {
+    "dataId": 593,
+    "courseCode": "ESO209",
+    "courseName": "DYNAMICS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 594,
+    "courseCode": "ESO213",
+    "courseName": "FUNDAMENTALS OF EARTH SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 595,
+    "courseCode": "FA799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 596,
+    "courseCode": "HSO201",
+    "courseName": "APPLIED PROBABILITY AND STATISTICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 597,
+    "courseCode": "HSS401",
+    "courseName": "SOFT SKILLS AND PERSONALITYDEVELOPMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 598,
+    "courseCode": "IDC605",
+    "courseName": "COMPUTATIONAL SCIENCES AND ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 599,
+    "courseCode": "IME602",
+    "courseName": "PROBABILITY AND STATISTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 600,
+    "courseCode": "IME603",
+    "courseName": "INTRODUCTION TO COMPUTING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 601,
+    "courseCode": "IME605",
+    "courseName": "OPERATIONS RESEARCH FOR MANAGEMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 602,
+    "courseCode": "IME611",
+    "courseName": "FINANCIALENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 603,
+    "courseCode": "IME624",
+    "courseName": "COMPUTER AIDED DECISIONSYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 604,
+    "courseCode": "IME625",
+    "courseName": "INDRODUCTION TOSTOCHASTIC PROCESSES AND THEIR APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 605,
+    "courseCode": "IME634",
+    "courseName": "MANAGEMENT DECISIONANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 606,
+    "courseCode": "IME636",
+    "courseName": "INTRODUCTION TO GAME THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 607,
+    "courseCode": "IME637",
+    "courseName": "ADVANCED DECISIONMODELS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 608,
+    "courseCode": "IME639",
+    "courseName": "ANALYTICS IN TRANSPORT AND TELECOM",
+    "Credits": "9"
+  },
+  {
+    "dataId": 609,
+    "courseCode": "IME642",
+    "courseName": "OPERATIONSMANAGEMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 610,
+    "courseCode": "IME671",
+    "courseName": "SOFTWARE PROJECTMANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 611,
+    "courseCode": "IME672",
+    "courseName": "DATA MINING AND KNOWLEDGE DISCOVERY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 612,
+    "courseCode": "IME673",
+    "courseName": "APPLIED MACHINE LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 613,
+    "courseCode": "IME692",
+    "courseName": "ADVANCED STATISTICAL METHODS FOR BUSINESS ANALYTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 614,
+    "courseCode": "IME698",
+    "courseName": "SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 615,
+    "courseCode": "IME699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 616,
+    "courseCode": "IME700",
+    "courseName": "RESEARCHMETHODOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 617,
+    "courseCode": "IME709",
+    "courseName": "PRODUCTIVITY AND EFFICIENCY ANALYSIS: THEORY AND BENCHMARKING APPLICATIONS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 618,
+    "courseCode": "IME797",
+    "courseName": "INDEPENDENT STUDY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 619,
+    "courseCode": "IME799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 620,
+    "courseCode": "LIF101",
+    "courseName": "INTRODUCTION TO BIOLOGY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 621,
+    "courseCode": "MBA601",
+    "courseName": "ACCOUNTING & FINANCE",
+    "Credits": "10"
+  },
+  {
+    "dataId": 622,
+    "courseCode": "MBA606",
+    "courseName": "ECONOMIC ANALYSIS FOR MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 623,
+    "courseCode": "MBA608",
+    "courseName": "MACROECONOMIC ANALYSIS FOR MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 624,
+    "courseCode": "MBA611",
+    "courseName": "ORGANIZATION STRUCTURE AND DESIGN",
+    "Credits": "10"
+  },
+  {
+    "dataId": 625,
+    "courseCode": "MBA616",
+    "courseName": "HUMAN RESOURCE MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 626,
+    "courseCode": "MBA617",
+    "courseName": "SOCIO-POLITICAL AND ETHICAL ASPECTS OF BUSINESS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 627,
+    "courseCode": "MBA622",
+    "courseName": "MANUFACTURING STRATEGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 628,
+    "courseCode": "MBA623",
+    "courseName": "STRATEGIC MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 629,
+    "courseCode": "MBA631",
+    "courseName": "MARKETING MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 630,
+    "courseCode": "MBA633",
+    "courseName": "MARKETING RESEARCH",
+    "Credits": "10"
+  },
+  {
+    "dataId": 631,
+    "courseCode": "MBA643",
+    "courseName": "SIMULATION OF BUSINESS SYSTEMS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 632,
+    "courseCode": "MBA646",
+    "courseName": "ENTERPRISE INTEGRATION WITH IT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 633,
+    "courseCode": "MBA647",
+    "courseName": "BUSINESS PROCESS MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 634,
+    "courseCode": "MBA651",
+    "courseName": "QUANTITATIVE METHODS FOR DECISION MAKING",
+    "Credits": "10"
+  },
+  {
+    "dataId": 635,
+    "courseCode": "MBA652",
+    "courseName": "STATISTICAL MODELLING FOR BUSINESS ANALYTICS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 636,
+    "courseCode": "MBA661",
+    "courseName": "PRODUCTION AND OPERATIONSMANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 637,
+    "courseCode": "MBA663",
+    "courseName": "TOTAL QUALITY MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 638,
+    "courseCode": "MBA664",
+    "courseName": "SUPPLY CHAIN MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 639,
+    "courseCode": "MBA665",
+    "courseName": "MANUFACTURING PLANNING AND CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 640,
+    "courseCode": "MBA666",
+    "courseName": "PROJECT MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 641,
+    "courseCode": "MBA677",
+    "courseName": "PROJECT FINANCING & MANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 642,
+    "courseCode": "MBA683",
+    "courseName": "POWER SECTOR REFORM & REGULATION: THEORY AND PRACTICE",
+    "Credits": "10"
+  },
+  {
+    "dataId": 643,
+    "courseCode": "MBA685",
+    "courseName": "PRODUCT & BRANDMANAGEMENT",
+    "Credits": "10"
+  },
+  {
+    "dataId": 644,
+    "courseCode": "MBA698",
+    "courseName": "MANAGEMENT SEMINARS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 645,
+    "courseCode": "MBA701",
+    "courseName": "CAPSTONE PROJECT I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 646,
+    "courseCode": "MBA702",
+    "courseName": "CAPSTONE PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 647,
+    "courseCode": "MBA703",
+    "courseName": "CAPSTONE PROJECT III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 648,
+    "courseCode": "MBA704",
+    "courseName": "CAPSTONE PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 649,
+    "courseCode": "MBA712",
+    "courseName": "ORGANIZATIONAL STAFFING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 650,
+    "courseCode": "MBA713",
+    "courseName": "PERFORMANCE MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 651,
+    "courseCode": "MBA717",
+    "courseName": "GOVERNANCE OF GLOBAL VALUE CHAINS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 652,
+    "courseCode": "MBA731",
+    "courseName": "BUSINESS TO BUSINESS MARKETING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 653,
+    "courseCode": "MBA734",
+    "courseName": "MARKETING OFSERVICES",
+    "Credits": "5"
+  },
+  {
+    "dataId": 654,
+    "courseCode": "MBA735",
+    "courseName": "STRATEGIC MARKETING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 655,
+    "courseCode": "MBA736",
+    "courseName": "STRATEGIC MARKETING COMMUNICATIONS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 656,
+    "courseCode": "MBA744",
+    "courseName": "BUSINESS PROCESS MODELLING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 657,
+    "courseCode": "MBA746",
+    "courseName": "E-SUPPLY CHAIN MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 658,
+    "courseCode": "MBA747",
+    "courseName": "BUSINESS MANAGEMENT USING CLOUD",
+    "Credits": "5"
+  },
+  {
+    "dataId": 659,
+    "courseCode": "MBA749",
+    "courseName": "SOCIAL MEDIA ANALYTICS I",
+    "Credits": "5"
+  },
+  {
+    "dataId": 660,
+    "courseCode": "MBA752",
+    "courseName": "TIME SERIES MODELING FOR BUSINESS ANALYTICS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 661,
+    "courseCode": "MBA753",
+    "courseName": "CAUSAL INFERENCE METHODS FOR BUSINESS ANALYTICS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 662,
+    "courseCode": "MBA771",
+    "courseName": "SECURITY ANALYSIS & PORTFOLIO MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 663,
+    "courseCode": "MBA772",
+    "courseName": "DERIVATIVE CONTRACTS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 664,
+    "courseCode": "MBA773",
+    "courseName": "FINANCIALINTERMEDIATION &COMMERCIAL BANKING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 665,
+    "courseCode": "MBA774",
+    "courseName": "CREDIT RISK MANAGEMENT & MODELLING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 666,
+    "courseCode": "MBA775",
+    "courseName": "ADVANCED CORPORATEFINANCE",
+    "Credits": "5"
+  },
+  {
+    "dataId": 667,
+    "courseCode": "MBA776",
+    "courseName": "MERGERS AND ACQUISITIONS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 668,
+    "courseCode": "MBA777",
+    "courseName": "ADVANCED VALUATION",
+    "Credits": "5"
+  },
+  {
+    "dataId": 669,
+    "courseCode": "MBA779",
+    "courseName": "ADVANCED FINANCIAL MODELING",
+    "Credits": "5"
+  },
+  {
+    "dataId": 670,
+    "courseCode": "MBA783",
+    "courseName": "BEHAVIORAL ECONOMICS IN MANAGEMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 671,
+    "courseCode": "ME231",
+    "courseName": "FLUID MECHANICS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 672,
+    "courseCode": "ME251",
+    "courseName": "ENGINEERING DESIGN AND GRAPHICS",
+    "Credits": "5"
+  },
+  {
+    "dataId": 673,
+    "courseCode": "ME301",
+    "courseName": "ENERGY SYSTEMS I",
+    "Credits": "6"
+  },
+  {
+    "dataId": 674,
+    "courseCode": "ME321",
+    "courseName": "ADVANCE MECHANICS OF SOLIDS",
+    "Credits": "7"
+  },
+  {
+    "dataId": 675,
+    "courseCode": "ME340",
+    "courseName": "INTRODUCTION TO REFRIGERATION AND AIR CONDITIONING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 676,
+    "courseCode": "ME341",
+    "courseName": "HEAT & MASSTRANSFER",
+    "Credits": "9"
+  },
+  {
+    "dataId": 677,
+    "courseCode": "ME351",
+    "courseName": "DESIGN OF MACHINEELEMENTS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 678,
+    "courseCode": "ME352",
+    "courseName": "THEORY OF MECHANISMS & MACHINES",
+    "Credits": "7"
+  },
+  {
+    "dataId": 679,
+    "courseCode": "ME354",
+    "courseName": "VIBRATION & CONTROL",
+    "Credits": "10"
+  },
+  {
+    "dataId": 680,
+    "courseCode": "ME359",
+    "courseName": "INTERNAL COMBUSTIONENGINES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 681,
+    "courseCode": "ME361",
+    "courseName": "MANUFACTURING SCIENCE & TECHNOLOGY",
+    "Credits": "10"
+  },
+  {
+    "dataId": 682,
+    "courseCode": "ME399",
+    "courseName": "MECHANICAL ENGINEERING COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 683,
+    "courseCode": "ME401",
+    "courseName": "ENERGY SYSTEMS- II",
+    "Credits": "10"
+  },
+  {
+    "dataId": 684,
+    "courseCode": "ME451",
+    "courseName": "ME PROJECT-1",
+    "Credits": "9"
+  },
+  {
+    "dataId": 685,
+    "courseCode": "ME617",
+    "courseName": "ADVANCED THEORY OF TURBOMACHINERY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 686,
+    "courseCode": "ME621",
+    "courseName": "INTRODUCTION TO SOLID MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 687,
+    "courseCode": "ME622",
+    "courseName": "INTRODUCTION TOCONTINUUMMECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 688,
+    "courseCode": "ME623",
+    "courseName": "FINITE ELEMENT METHODS IN ENGINEERING MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 689,
+    "courseCode": "ME625",
+    "courseName": "APPLIED DYNAMICS AND VIBRATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 690,
+    "courseCode": "ME627",
+    "courseName": "NONLINEAR VIBRATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 691,
+    "courseCode": "ME630",
+    "courseName": "COMPUTATIONAL FLUID DYNAMICS AND HEAT TRANSFER",
+    "Credits": "9"
+  },
+  {
+    "dataId": 692,
+    "courseCode": "ME631",
+    "courseName": "VISCOUS FLOW THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 693,
+    "courseCode": "ME634",
+    "courseName": "ADVANCED COMPUTATIONAL FLUID DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 694,
+    "courseCode": "ME641",
+    "courseName": "CONDUCTION AND RADIATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 695,
+    "courseCode": "ME642",
+    "courseName": "CONVECTIVE HEAT AND MASS TRANSFER",
+    "Credits": "9"
+  },
+  {
+    "dataId": 696,
+    "courseCode": "ME643",
+    "courseName": "COMBUSTION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 697,
+    "courseCode": "ME645",
+    "courseName": "SOLAR ENERGY TECHNOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 698,
+    "courseCode": "ME647",
+    "courseName": "INTRODUCTION TOTURBULENT FLOW",
+    "Credits": "9"
+  },
+  {
+    "dataId": 699,
+    "courseCode": "ME648",
+    "courseName": "COMPUTER AIDED DESIGN OF THERMALSYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 700,
+    "courseCode": "ME649",
+    "courseName": "EXPERIMENTAL METHODS IN THERMAL SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 701,
+    "courseCode": "ME662",
+    "courseName": "MACHINING SCIENCE II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 702,
+    "courseCode": "ME664",
+    "courseName": "FUNDAMENTALS OFCASTING & SOLIDIFICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 703,
+    "courseCode": "ME666",
+    "courseName": "INVISCID FLOWS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 704,
+    "courseCode": "ME668",
+    "courseName": "MACHINING DYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 705,
+    "courseCode": "ME670",
+    "courseName": "ADDITIVE MANUFACTURING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 706,
+    "courseCode": "ME676",
+    "courseName": "NON - LINEAR FINITEELEMENT METHODS IN SOLID MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 707,
+    "courseCode": "ME679",
+    "courseName": "DAMAGE MECHANICS OFCOMPOSITE MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 708,
+    "courseCode": "ME681",
+    "courseName": "MATHEMATICS FOR ENGINEERS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 709,
+    "courseCode": "ME683",
+    "courseName": "TECHNIQUES IN NON-DESTRUCTIVE EVALUATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 710,
+    "courseCode": "ME685",
+    "courseName": "APPLIED NUMERICAL METHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 711,
+    "courseCode": "ME689",
+    "courseName": "MICROSCALE THERMAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 712,
+    "courseCode": "ME698H",
+    "courseName": "INTRODUCTION TO ROD THEORY",
+    "Credits": "5"
+  },
+  {
+    "dataId": 713,
+    "courseCode": "ME699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 714,
+    "courseCode": "ME701",
+    "courseName": "DESIGN FOR MANUFACTURE & ASSEMBLY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 715,
+    "courseCode": "ME711",
+    "courseName": "COMPUTATIONAL TURBULENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 716,
+    "courseCode": "ME721",
+    "courseName": "THEORY OF PLASTICITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 717,
+    "courseCode": "ME728",
+    "courseName": "FRACTURE AND FATIGUE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 718,
+    "courseCode": "ME742",
+    "courseName": "BOILING AND CONDENSATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 719,
+    "courseCode": "ME752",
+    "courseName": "OPTIMIZATION METHODS IN ENGINEERING DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 720,
+    "courseCode": "ME756",
+    "courseName": "VIBRATION CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 721,
+    "courseCode": "ME757",
+    "courseName": "DYNAMICS OF ROTATING MACHINERY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 722,
+    "courseCode": "ME761",
+    "courseName": "COMPUTER AIDED MANUFACTURING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 723,
+    "courseCode": "ME762",
+    "courseName": "INTRODUCTION TO ROBOTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 724,
+    "courseCode": "ME763",
+    "courseName": "ROBOT MANIPULATORS: DYNAMICS AND CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 725,
+    "courseCode": "ME770",
+    "courseName": "MATERIALS SELECTION IN MECHANICAL DESIGN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 726,
+    "courseCode": "ME778",
+    "courseName": "ENGINEERING ACOUSTICS AND ITS CONTROL",
+    "Credits": "9"
+  },
+  {
+    "dataId": 727,
+    "courseCode": "ME799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 728,
+    "courseCode": "ME899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 729,
+    "courseCode": "MS601",
+    "courseName": "STRUCTURAL & MAGNETIC PROPERTIES OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 730,
+    "courseCode": "MS602",
+    "courseName": "ELECTRICAL AND DIELECTRIC MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 731,
+    "courseCode": "MS603",
+    "courseName": "MECHANICAL PROPERTIES OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 732,
+    "courseCode": "MS604",
+    "courseName": "CHARACTERIZATION OF MATERIALS",
+    "Credits": "10"
+  },
+  {
+    "dataId": 733,
+    "courseCode": "MS605",
+    "courseName": "MATERIALSENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 734,
+    "courseCode": "MS698",
+    "courseName": "GRADUATE SEMINAR",
+    "Credits": "0"
+  },
+  {
+    "dataId": 735,
+    "courseCode": "MS699",
+    "courseName": "M TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 736,
+    "courseCode": "MS799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 737,
+    "courseCode": "MSE201",
+    "courseName": "THERMODYNAMICS & PHASE EQUILIBRI",
+    "Credits": "11"
+  },
+  {
+    "dataId": 738,
+    "courseCode": "MSE202",
+    "courseName": "RATE PROCESSES",
+    "Credits": "11"
+  },
+  {
+    "dataId": 739,
+    "courseCode": "MSE203",
+    "courseName": "STRUCTURE & CHARACTERIZATION OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 740,
+    "courseCode": "MSE204",
+    "courseName": "INTRODUCTION OFBIOMATERIALS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 741,
+    "courseCode": "MSE300",
+    "courseName": "PROFESSIONAL & TECHNICAL COMMUNICATION",
+    "Credits": "2"
+  },
+  {
+    "dataId": 742,
+    "courseCode": "MSE301",
+    "courseName": "PHASE TRANSFORMATIONS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 743,
+    "courseCode": "MSE302",
+    "courseName": "MECHANICAL BEHAVIOUR OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 744,
+    "courseCode": "MSE303",
+    "courseName": "ELECTRONIC & MAGNETIC PROPERTIES OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 745,
+    "courseCode": "MSE305",
+    "courseName": "MATERIALSPROCESSING",
+    "Credits": "6"
+  },
+  {
+    "dataId": 746,
+    "courseCode": "MSE311",
+    "courseName": "PHYSICAL METALLURGY LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 747,
+    "courseCode": "MSE312",
+    "courseName": "FUNCTIONAL MATERIALS LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 748,
+    "courseCode": "MSE313",
+    "courseName": "MECHANICAL BEHAVIOUR LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 749,
+    "courseCode": "MSE314",
+    "courseName": "PROCESS ENGINEERING LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 750,
+    "courseCode": "MSE315",
+    "courseName": "MANUFACTURING PROCESSES LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 751,
+    "courseCode": "MSE349",
+    "courseName": "UNDER GRADUATE PROJECT I",
+    "Credits": "4"
+  },
+  {
+    "dataId": 752,
+    "courseCode": "MSE398",
+    "courseName": "UNDER GRADUATEPROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 753,
+    "courseCode": "MSE421",
+    "courseName": "IRON AND STEEL MAKING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 754,
+    "courseCode": "MSE449",
+    "courseName": "UNDER GRADUATE PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 755,
+    "courseCode": "MSE497",
+    "courseName": "UNDER GRADUATEPROJECT III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 756,
+    "courseCode": "MSE604",
+    "courseName": "SCIENCE AND TECHNOLOGY OF THINFILMS AND DEVICE FABRICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 757,
+    "courseCode": "MSE608",
+    "courseName": "MICROSTRUCTURE MODELLING AND SIMULATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 758,
+    "courseCode": "MSE611",
+    "courseName": "CORROSION AND OXIDATION OF METALSAND ALLOYS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 759,
+    "courseCode": "MSE615",
+    "courseName": "STRUCTURE AND CHARACTERIZATION OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 760,
+    "courseCode": "MSE616",
+    "courseName": "THERMODYNAMICS OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 761,
+    "courseCode": "MSE617",
+    "courseName": "MATHEMATICS AND COMPUTATIONAL METHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 762,
+    "courseCode": "MSE624",
+    "courseName": "ENERGY MATERIALS AND TECHNOLOGIES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 763,
+    "courseCode": "MSE626",
+    "courseName": "TRANSPORT PHENOMEN",
+    "Credits": "9"
+  },
+  {
+    "dataId": 764,
+    "courseCode": "MSE628",
+    "courseName": "ELECTRONIC DEVICES AND CHARACTERIZATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 765,
+    "courseCode": "MSE631",
+    "courseName": "ELECTROCERAMIC MATERIALS AND APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 766,
+    "courseCode": "MSE638",
+    "courseName": "SYMMETRY AND PROPERTIES OF CRYSTALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 767,
+    "courseCode": "MSE639",
+    "courseName": "INTERFACES AND MATERIALSPROPERTIES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 768,
+    "courseCode": "MSE642",
+    "courseName": "MICROSCOPY AND MICROANALYSIS OF MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 769,
+    "courseCode": "MSE648",
+    "courseName": "DIFFUSION INSOLIDS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 770,
+    "courseCode": "MSE650",
+    "courseName": "FUNDAMENTALS OF STEREOLOGY & APPLICATIONS TO MICROSTRUTURAL ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 771,
+    "courseCode": "MSE658",
+    "courseName": "DISLOCATIONS AND PLASTICITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 772,
+    "courseCode": "MSE659",
+    "courseName": "POWDER METALLURGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 773,
+    "courseCode": "MSE667",
+    "courseName": "SELECTION AND DESIGNING WITH ENGINEERING MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 774,
+    "courseCode": "MSE669",
+    "courseName": "FIELD - ASSISTED PROCESSING OF CERAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 775,
+    "courseCode": "MSE670",
+    "courseName": "SOLIDIFICATION PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 776,
+    "courseCode": "MSE671",
+    "courseName": "HEAT TREATMENT AND SURFACE HARDENING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 777,
+    "courseCode": "MSE673",
+    "courseName": "FUNDAMENTAL AND APPLICATIONS OF ELECTROCHEMISTRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 778,
+    "courseCode": "MSE676",
+    "courseName": "MATERIALS FAILURE: ANALYSIS ANDPREVENTION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 779,
+    "courseCode": "MSE681",
+    "courseName": "SOLAR ENERGY TECHNOLOGIES AND MATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 780,
+    "courseCode": "MSE682",
+    "courseName": "COMPUTER SIMULATIONS IN MATERIALS SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 781,
+    "courseCode": "MSE683",
+    "courseName": "CRYSTALLOGRAPHIC TEXTURE & MECROSTRUCTURAL ENGINEERING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 782,
+    "courseCode": "MSE690",
+    "courseName": "SEMINAR PARTICIPATION",
+    "Credits": "0"
+  },
+  {
+    "dataId": 783,
+    "courseCode": "MSE691",
+    "courseName": "SEMINAR PRESENTATION",
+    "Credits": "0"
+  },
+  {
+    "dataId": 784,
+    "courseCode": "MSE693",
+    "courseName": "MATERIALS SCIENCE TECHNOLOGIES FOR APPLICATIONS IN LIFE SCIENCES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 785,
+    "courseCode": "MSE694",
+    "courseName": "NANOSTRUCTURES AND NANOMATERIALS: CHARACTERIZATION AND PROPERTIES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 786,
+    "courseCode": "MSE699",
+    "courseName": "M.TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 787,
+    "courseCode": "MSE799",
+    "courseName": "PH D THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 788,
+    "courseCode": "MSO201",
+    "courseName": "PROBABILITY AND STATISTICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 789,
+    "courseCode": "MSO202",
+    "courseName": "COMPLEX VARIABLES",
+    "Credits": "6"
+  },
+  {
+    "dataId": 790,
+    "courseCode": "MSO203",
+    "courseName": "PARTIAL DIFFERENTIAL EQUATIONS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 791,
+    "courseCode": "MTH",
+    "courseName": "ABSTRACT",
+    "Credits": "11"
+  },
+  {
+    "dataId": 792,
+    "courseCode": "MTH101",
+    "courseName": "MATHEMATICS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 793,
+    "courseCode": "MTH102",
+    "courseName": "MATHEMATICS - II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 794,
+    "courseCode": "MTH201",
+    "courseName": "A FIRST COURSE IN LINEAR ALGEBR",
+    "Credits": "11"
+  },
+  {
+    "dataId": 795,
+    "courseCode": "MTH204",
+    "courseName": "ABSTRACTALGEBR",
+    "Credits": "11"
+  },
+  {
+    "dataId": 796,
+    "courseCode": "MTH205",
+    "courseName": "INTRODUCTION TO FOURIER SERIES",
+    "Credits": "11"
+  },
+  {
+    "dataId": 797,
+    "courseCode": "MTH20",
+    "courseName": "SET THEORY AND DISCRETE MATHEMATICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 798,
+    "courseCode": "MTH215",
+    "courseName": "NUMBER THEORY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 799,
+    "courseCode": "MTH301",
+    "courseName": "ANALYSIS- I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 800,
+    "courseCode": "MTH302",
+    "courseName": "SET THEORY & LOGIC",
+    "Credits": "11"
+  },
+  {
+    "dataId": 801,
+    "courseCode": "MTH304",
+    "courseName": "TOPOLOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 802,
+    "courseCode": "MTH305",
+    "courseName": "SEVERAL VARIABLE CALCULUS & DEFFERENTIAL GEOMETRY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 803,
+    "courseCode": "MTH308",
+    "courseName": "NUMERICAL ANALYSISAND SCIENTIFIC COMPUTING-I",
+    "Credits": "10"
+  },
+  {
+    "dataId": 804,
+    "courseCode": "MTH309",
+    "courseName": "PROBABILITY THEORY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 805,
+    "courseCode": "MTH391",
+    "courseName": "UG PROJECT (UGP- I)",
+    "Credits": "4"
+  },
+  {
+    "dataId": 806,
+    "courseCode": "MTH392",
+    "courseName": "UNDER GRADUATE PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 807,
+    "courseCode": "MTH393",
+    "courseName": "UG PROJECT (UGP- III)",
+    "Credits": "9"
+  },
+  {
+    "dataId": 808,
+    "courseCode": "MTH394",
+    "courseName": "UNDER GRADUATE PROJECT IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 809,
+    "courseCode": "MTH399",
+    "courseName": "TECHNICAL COMMUNICATION SKILLS",
+    "Credits": "2"
+  },
+  {
+    "dataId": 810,
+    "courseCode": "MTH401",
+    "courseName": "THEORY OF COMPUTATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 811,
+    "courseCode": "MTH403",
+    "courseName": "COMPLEX ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 812,
+    "courseCode": "MTH404",
+    "courseName": "ANALYSIS II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 813,
+    "courseCode": "MTH405",
+    "courseName": "FUNCTIONAL ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 814,
+    "courseCode": "MTH409",
+    "courseName": "COMPUTER PROGRAMMING AND DATA STRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 815,
+    "courseCode": "MTH412",
+    "courseName": "APPLIED STOCHASTIC PROCESS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 816,
+    "courseCode": "MTH415",
+    "courseName": "MATRIX THEORY AND LINEAR ESTIMATION",
+    "Credits": "11"
+  },
+  {
+    "dataId": 817,
+    "courseCode": "MTH416",
+    "courseName": "REGRESSION ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 818,
+    "courseCode": "MTH418",
+    "courseName": "INFERENCE -I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 819,
+    "courseCode": "MTH421",
+    "courseName": "ORDINARY DIFFERENTIAL EQUATIONS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 820,
+    "courseCode": "MTH424",
+    "courseName": "PARTIAL DIFFERENTIAL EQUATIONS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 821,
+    "courseCode": "MTH428",
+    "courseName": "MATHEMATICAL METHODS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 822,
+    "courseCode": "MTH430",
+    "courseName": "NUMERICAL ANALYSIS & SCIENTIFIC COMPUTING II",
+    "Credits": "10"
+  },
+  {
+    "dataId": 823,
+    "courseCode": "MTH431",
+    "courseName": "BASIC PROBABILITY & DISTRIBUTION THEORY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 824,
+    "courseCode": "MTH432",
+    "courseName": "INTRODUCTION TO SAMPLING THEORY",
+    "Credits": "6"
+  },
+  {
+    "dataId": 825,
+    "courseCode": "MTH433",
+    "courseName": "REAL ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 826,
+    "courseCode": "MTH434",
+    "courseName": "COMPLEX ANALYSIS",
+    "Credits": "6"
+  },
+  {
+    "dataId": 827,
+    "courseCode": "MTH511",
+    "courseName": "STATISTICAL SIMULATION AND DATA ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 828,
+    "courseCode": "MTH513",
+    "courseName": "ANALYSIS OFVARIANCE",
+    "Credits": "11"
+  },
+  {
+    "dataId": 829,
+    "courseCode": "MTH514",
+    "courseName": "MULTIVARIATE ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 830,
+    "courseCode": "MTH515",
+    "courseName": "INFERENCE - II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 831,
+    "courseCode": "MTH516",
+    "courseName": "NON-PARAMETRIC INFERENCE",
+    "Credits": "11"
+  },
+  {
+    "dataId": 832,
+    "courseCode": "MTH517",
+    "courseName": "TIME SERIES ANALYSIS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 833,
+    "courseCode": "MTH535",
+    "courseName": "AN INTRODUCTION TOBAYESIANANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 834,
+    "courseCode": "MTH598",
+    "courseName": "PROJECT-I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 835,
+    "courseCode": "MTH599",
+    "courseName": "PROJECT-II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 836,
+    "courseCode": "MTH611",
+    "courseName": "ALGEBRA II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 837,
+    "courseCode": "MTH612",
+    "courseName": "INTRODUCTION TO COMMUTATIVE ALGEBR",
+    "Credits": "9"
+  },
+  {
+    "dataId": 838,
+    "courseCode": "MTH613",
+    "courseName": "RINGS AND MODULES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 839,
+    "courseCode": "MTH621",
+    "courseName": "FOURIER ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 840,
+    "courseCode": "MTH624",
+    "courseName": "DIFFERENTIABLE MANIFOLDS AND LIE GROUPS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 841,
+    "courseCode": "MTH633",
+    "courseName": "INTRODUCTION TOHYPERBOLIC GEOMETRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 842,
+    "courseCode": "MTH641",
+    "courseName": "INTRODUCTION TO LIE ALGEBRAS AND REPRESENTATIONTHEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 843,
+    "courseCode": "MTH642",
+    "courseName": "TOPICS IN MODEL THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 844,
+    "courseCode": "MTH648",
+    "courseName": "DIFFERENTIAL GEOMETRY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 845,
+    "courseCode": "MTH649",
+    "courseName": "ALGEBRAIC TOPOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 846,
+    "courseCode": "MTH652",
+    "courseName": "ADVANCEDCALCULUS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 847,
+    "courseCode": "MTH653",
+    "courseName": "INTEGRAL EQUATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 848,
+    "courseCode": "MTH656",
+    "courseName": "SOBOLEV SPACES AND APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 849,
+    "courseCode": "MTH658",
+    "courseName": "NONLINEAR DYNAMICAL SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 850,
+    "courseCode": "MTH668",
+    "courseName": "INTRODUCTION TOANALYTIC NUMER THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 851,
+    "courseCode": "MTH669",
+    "courseName": "ERGODIC THEORY & APPLICATIONS TO METRIC NUMBER THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 852,
+    "courseCode": "MTH679",
+    "courseName": "SPATIO-TEMPORAL MODELS IN MATHEMATICAL BIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 853,
+    "courseCode": "MTH688",
+    "courseName": "TOPICS IN ARITHMATIC",
+    "Credits": "9"
+  },
+  {
+    "dataId": 854,
+    "courseCode": "MTH697",
+    "courseName": "PROJECT-I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 855,
+    "courseCode": "MTH698",
+    "courseName": "PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 856,
+    "courseCode": "MTH699",
+    "courseName": "PROJECT- III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 857,
+    "courseCode": "MTH700",
+    "courseName": "MS PROJECT - 4",
+    "Credits": "9"
+  },
+  {
+    "dataId": 858,
+    "courseCode": "MTH701",
+    "courseName": "MODAL LOGIC",
+    "Credits": "9"
+  },
+  {
+    "dataId": 859,
+    "courseCode": "MTH707",
+    "courseName": "MARKOV CHAIN MONTE CARLO",
+    "Credits": "9"
+  },
+  {
+    "dataId": 860,
+    "courseCode": "MTH713",
+    "courseName": "DIFFERENTIAL TOPOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 861,
+    "courseCode": "MTH717",
+    "courseName": "ANN/ML APPROACH FOR DIFFERENTIAL EQUATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 862,
+    "courseCode": "MTH718",
+    "courseName": "GAMMACONVERGENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 863,
+    "courseCode": "MTH724",
+    "courseName": "AN INTRODUCTION TOALGEBRAIC K-THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 864,
+    "courseCode": "MTH725",
+    "courseName": "HILBERT SPACE METHODS IN COMPLEX ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 865,
+    "courseCode": "MTH726",
+    "courseName": "COMBINATORIAL SETTHEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 866,
+    "courseCode": "MTH731",
+    "courseName": "INTRODUCTION TO COXETER GROUPS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 867,
+    "courseCode": "MTH732",
+    "courseName": "REPRESENTATIONTHEORY OF FINITEGROUPS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 868,
+    "courseCode": "MTH734",
+    "courseName": "BRANCH ALGEBRAS, C*ALGEBRAS AND SPECTRAL THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 869,
+    "courseCode": "MTH751",
+    "courseName": "ALGEBR",
+    "Credits": "9"
+  },
+  {
+    "dataId": 870,
+    "courseCode": "MTH752",
+    "courseName": "MATHEMATICAL METHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 871,
+    "courseCode": "MTH753",
+    "courseName": "ANALYSIS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 872,
+    "courseCode": "MTH754",
+    "courseName": "PROBABILITY THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 873,
+    "courseCode": "MTH755",
+    "courseName": "STATISTICAL INFERENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 874,
+    "courseCode": "MTH759",
+    "courseName": "ALGEBRIC TOPOLOGY II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 875,
+    "courseCode": "MTH761",
+    "courseName": "VECTOR BUNDLES ANDCHARACTERISTIC CLASSES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 876,
+    "courseCode": "MTH799",
+    "courseName": "RESEARCH",
+    "Credits": "0"
+  },
+  {
+    "dataId": 877,
+    "courseCode": "NT799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 878,
+    "courseCode": "PE101",
+    "courseName": "MORNING EXERCISE",
+    "Credits": "3"
+  },
+  {
+    "dataId": 879,
+    "courseCode": "PHI142",
+    "courseName": "INTRODUCTION TO LOGIC",
+    "Credits": "11"
+  },
+  {
+    "dataId": 880,
+    "courseCode": "PHI145",
+    "courseName": "INTRODUCTION TO PHILOSOPHY OF BIOLOGY & COGNITION",
+    "Credits": "11"
+  },
+  {
+    "dataId": 881,
+    "courseCode": "PHI446",
+    "courseName": "PHILOSOPHY OFSCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 882,
+    "courseCode": "PHI447",
+    "courseName": "MORAL THINKING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 883,
+    "courseCode": "PHI450",
+    "courseName": "PHILOSOPHICAL AESTHETICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 884,
+    "courseCode": "PHI452",
+    "courseName": "PHILOSOPHY OFCOGNITIVE SCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 885,
+    "courseCode": "PHI752",
+    "courseName": "PROBLEMS IN PHILOSOPHICAL AESTHETICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 886,
+    "courseCode": "PHI755",
+    "courseName": "ADVANCED TOPICS INPHILOSOPHY OFSCIENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 887,
+    "courseCode": "PHI757",
+    "courseName": "MORAL JUDGEMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 888,
+    "courseCode": "PHI768",
+    "courseName": "MODAL LOGIC",
+    "Credits": "9"
+  },
+  {
+    "dataId": 889,
+    "courseCode": "PHI774",
+    "courseName": "SOCIAL AND POLITICAL PHILOSPHY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 890,
+    "courseCode": "PHI775",
+    "courseName": "PHILOSOPHY OFMIND",
+    "Credits": "9"
+  },
+  {
+    "dataId": 891,
+    "courseCode": "PHI786",
+    "courseName": "EVOLUTIONARY THEORIES OF KNOWLEDGE AND COGNITION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 892,
+    "courseCode": "PHI799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 893,
+    "courseCode": "PHY101",
+    "courseName": "PHYSICS LABORATORY",
+    "Credits": "3"
+  },
+  {
+    "dataId": 894,
+    "courseCode": "PHY102",
+    "courseName": "PHYSICS-I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 895,
+    "courseCode": "PHY103",
+    "courseName": "PHYSICS-II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 896,
+    "courseCode": "PHY204",
+    "courseName": "QUANTUMPHYSICS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 897,
+    "courseCode": "PHY205",
+    "courseName": "FUNDAMENTAL OF SOFT MATTER",
+    "Credits": "6"
+  },
+  {
+    "dataId": 898,
+    "courseCode": "PHY224",
+    "courseName": "OPTICS",
+    "Credits": "12"
+  },
+  {
+    "dataId": 899,
+    "courseCode": "PHY301",
+    "courseName": "ENERGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 900,
+    "courseCode": "PHY307",
+    "courseName": "MODERN OPTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 901,
+    "courseCode": "PHY312",
+    "courseName": "QUANTUM PROCESSES IN LOW DIMENSIONAL SEMICONDUCTORS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 902,
+    "courseCode": "PHY313",
+    "courseName": "PHYSICS OF INFORMATION PROCESSING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 903,
+    "courseCode": "PHY315",
+    "courseName": "MODERN PHYSICS LABORATORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 904,
+    "courseCode": "PHY399",
+    "courseName": "TECHNICAL COMMUNICATION",
+    "Credits": "4"
+  },
+  {
+    "dataId": 905,
+    "courseCode": "PHY400",
+    "courseName": "INTRODUCTION TO THE DEPARTMENT",
+    "Credits": "5"
+  },
+  {
+    "dataId": 906,
+    "courseCode": "PHY401",
+    "courseName": "CLASSICAL MECHANICS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 907,
+    "courseCode": "PHY407",
+    "courseName": "SPECIAL & GENERAL RELATIVITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 908,
+    "courseCode": "PHY412",
+    "courseName": "STATISTICAL MECHANICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 909,
+    "courseCode": "PHY421",
+    "courseName": "MATHEMATICAL METHODS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 910,
+    "courseCode": "PHY422",
+    "courseName": "MATHEMATICAL METHODS II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 911,
+    "courseCode": "PHY431",
+    "courseName": "QUANTUM MECHANICS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 912,
+    "courseCode": "PHY432",
+    "courseName": "QUANTUM MECHANICS II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 913,
+    "courseCode": "PHY441",
+    "courseName": "ELECTRONICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 914,
+    "courseCode": "PHY461",
+    "courseName": "EXPERIMENTAL PHYSICS I",
+    "Credits": "8"
+  },
+  {
+    "dataId": 915,
+    "courseCode": "PHY462",
+    "courseName": "EXPERIMENTAL PHYSICS II",
+    "Credits": "8"
+  },
+  {
+    "dataId": 916,
+    "courseCode": "PHY500",
+    "courseName": "M SC REVIEW PROJECT I",
+    "Credits": "8"
+  },
+  {
+    "dataId": 917,
+    "courseCode": "PHY501",
+    "courseName": "M SC REVIEW PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 918,
+    "courseCode": "PHY502",
+    "courseName": "M.SC. REVIEW PROJECT III",
+    "Credits": "8"
+  },
+  {
+    "dataId": 919,
+    "courseCode": "PHY524",
+    "courseName": "INTRODUCTION TOATOMIC AND NUCLEAR PHYSICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 920,
+    "courseCode": "PHY526",
+    "courseName": "NUCLEAR AND PARTICLEPHYSICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 921,
+    "courseCode": "PHY543",
+    "courseName": "CONDENSED MATTER PHYSICS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 922,
+    "courseCode": "PHY552",
+    "courseName": "CLASSICAL ELECTRODYNAMICS I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 923,
+    "courseCode": "PHY553",
+    "courseName": "CLASSICAL ELECTRODYNAMICS II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 924,
+    "courseCode": "PHY555",
+    "courseName": "BACHLOR OF SCIENCE PROJECT -1",
+    "Credits": "9"
+  },
+  {
+    "dataId": 925,
+    "courseCode": "PHY556",
+    "courseName": "BACHLOR OF SCIENCE PROJECT -II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 926,
+    "courseCode": "PHY557",
+    "courseName": "BATCHLOR OF SCIENCE PROJECT -III",
+    "Credits": "9"
+  },
+  {
+    "dataId": 927,
+    "courseCode": "PHY558",
+    "courseName": "BATCHLOR OF SCIENCE PROJECT -IV",
+    "Credits": "9"
+  },
+  {
+    "dataId": 928,
+    "courseCode": "PHY563",
+    "courseName": "M.SC. PROJECT I",
+    "Credits": "11"
+  },
+  {
+    "dataId": 929,
+    "courseCode": "PHY565",
+    "courseName": "M.SC. PROJECT II",
+    "Credits": "11"
+  },
+  {
+    "dataId": 930,
+    "courseCode": "PHY566",
+    "courseName": "M.SC. PROJECT III",
+    "Credits": "11"
+  },
+  {
+    "dataId": 931,
+    "courseCode": "PHY568",
+    "courseName": "M.SC. PROJECT IV",
+    "Credits": "11"
+  },
+  {
+    "dataId": 932,
+    "courseCode": "PHY597",
+    "courseName": "M SC RESEARCH PROJECT -I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 933,
+    "courseCode": "PHY598",
+    "courseName": "M.SC. RESEARCH PROJECT I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 934,
+    "courseCode": "PHY599",
+    "courseName": "M.SC.RESEARCH PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 935,
+    "courseCode": "PHY601",
+    "courseName": "REVIEW OF CLASSICAL MACHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 936,
+    "courseCode": "PHY602",
+    "courseName": "REVIEW OF QUANTUMMECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 937,
+    "courseCode": "PHY603",
+    "courseName": "REVIEW OF CLASSICAL ELECTRODYNAMICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 938,
+    "courseCode": "PHY604",
+    "courseName": "REVIEW OF STATISTICAL MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 939,
+    "courseCode": "PHY605",
+    "courseName": "REVIEW OF MATHEMATICAL METHODS IN PHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 940,
+    "courseCode": "PHY607",
+    "courseName": "QUANTUM MANY BODY PHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 941,
+    "courseCode": "PHY610",
+    "courseName": "INTRODUCTION TOBIOPHOTONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 942,
+    "courseCode": "PHY615",
+    "courseName": "NON-EQULIBRIUM STATISTICAL MECHANICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 943,
+    "courseCode": "PHY624",
+    "courseName": "MAGNETISM INMATERIALS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 944,
+    "courseCode": "PHY631",
+    "courseName": "PHYSICS OF SEMICONDUCTOR NANOSTRUCTURES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 945,
+    "courseCode": "PHY647",
+    "courseName": "ELECTRONICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 946,
+    "courseCode": "PHY667",
+    "courseName": "HIGH ENERGY ASTROPHYSICS OF BINARY STAR SYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 947,
+    "courseCode": "PHY674",
+    "courseName": "GUIDED WAVE OPTICS",
+    "Credits": "11"
+  },
+  {
+    "dataId": 948,
+    "courseCode": "PHY680",
+    "courseName": "PARTICLE PHYSICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 949,
+    "courseCode": "PHY681",
+    "courseName": "QUANTUM FIELD THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 950,
+    "courseCode": "PHY690K",
+    "courseName": "QUANTUM DYNAMICS,INFORMATION ANDCOMPUTATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 951,
+    "courseCode": "PHY690M",
+    "courseName": "ADVANCED GENERALRELATIVITY AND BLACK HOLES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 952,
+    "courseCode": "PHY690Q",
+    "courseName": "COOPERATIVE PHENOMENA INCLASSICAL & QUANTUMSYSTEMS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 953,
+    "courseCode": "PHY690S",
+    "courseName": "TYPE II SUPERCONDUCTORS VORTICES & APPLICATIONS",
+    "Credits": "4"
+  },
+  {
+    "dataId": 954,
+    "courseCode": "PHY690V",
+    "courseName": "PHOTONIC DEVICES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 955,
+    "courseCode": "PHY690W",
+    "courseName": "HIGH PERFORMANCE COMPUTING & MACHINE LEARNING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 956,
+    "courseCode": "PHY690Z",
+    "courseName": "THEORY OF RANDOM PROCESSES AND APPLICATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 957,
+    "courseCode": "PHY697",
+    "courseName": "M SC RESEARCH PROJECT -I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 958,
+    "courseCode": "PHY698",
+    "courseName": "M.SC.RESEARCH PROJECT I",
+    "Credits": "9"
+  },
+  {
+    "dataId": 959,
+    "courseCode": "PHY699",
+    "courseName": "M.SC.RESEARCH PROJECT II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 960,
+    "courseCode": "PHY781",
+    "courseName": "HIGH ENERGY PHYSICS II",
+    "Credits": "9"
+  },
+  {
+    "dataId": 961,
+    "courseCode": "PHY799",
+    "courseName": "RESEARCH",
+    "Credits": "0"
+  },
+  {
+    "dataId": 962,
+    "courseCode": "PSE601",
+    "courseName": "INTRODUCTION TO PHOTONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 963,
+    "courseCode": "PSE602",
+    "courseName": "PRINCIPLES OF LASERS AND DETECTORS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 964,
+    "courseCode": "PSE603",
+    "courseName": "NUMERICAL METHODS IN OPTICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 965,
+    "courseCode": "PSE604",
+    "courseName": "PHOTONICS SYSTEMS AND APPLICATIONS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 966,
+    "courseCode": "PSE605",
+    "courseName": "PHOTONICS LAB TECHNIQUES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 967,
+    "courseCode": "PSE606",
+    "courseName": "RESEARCH IN PHOTONICS AND LASERS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 968,
+    "courseCode": "PSE607",
+    "courseName": "ADVANCED TOPICS INPHOTONICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 969,
+    "courseCode": "PSE699",
+    "courseName": "M. TECH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 970,
+    "courseCode": "PSE799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 971,
+    "courseCode": "PSE899",
+    "courseName": "MS - RESEARCH THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 972,
+    "courseCode": "PSO201",
+    "courseName": "QUANTUMPHYSICS",
+    "Credits": "8"
+  },
+  {
+    "dataId": 973,
+    "courseCode": "PSY151",
+    "courseName": "INTRODUCTION TO PSYCHOLOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 974,
+    "courseCode": "PSY151",
+    "courseName": "INTRODUCTION TOPSYCHOLOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 975,
+    "courseCode": "PSY454",
+    "courseName": "SOCIAL PSYCHOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 976,
+    "courseCode": "PSY470",
+    "courseName": "PSYCHOLOGY OF WELLBEING",
+    "Credits": "9"
+  },
+  {
+    "dataId": 977,
+    "courseCode": "PSY499",
+    "courseName": "PSYCHOLOGY OFLANGUAGE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 978,
+    "courseCode": "PSY770",
+    "courseName": "BILINGUALISM",
+    "Credits": "9"
+  },
+  {
+    "dataId": 979,
+    "courseCode": "PSY774",
+    "courseName": "QUALITATIVE RESEARCH: THEORY AND PRACTICE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 980,
+    "courseCode": "PSY776",
+    "courseName": "SEMINAR COURSE IN PSYCHOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 981,
+    "courseCode": "PSY789",
+    "courseName": "LEARNING MEMORY AND COGNITION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 982,
+    "courseCode": "PSY794",
+    "courseName": "DISASTER MENTAL HEALTH",
+    "Credits": "9"
+  },
+  {
+    "dataId": 983,
+    "courseCode": "PSY799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 984,
+    "courseCode": "SOC171",
+    "courseName": "INTRODUCTORY SOCIOLOGY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 985,
+    "courseCode": "SOC173",
+    "courseName": "INTRODUCTION TO INDIAN SOCIETY",
+    "Credits": "11"
+  },
+  {
+    "dataId": 986,
+    "courseCode": "SOC471",
+    "courseName": "INTRODUCTION TO COMPUTATIONAL SOCIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 987,
+    "courseCode": "SOC473",
+    "courseName": "INDIAN SOCIETY AND CULTURE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 988,
+    "courseCode": "SOC479",
+    "courseName": "POPULATION, ECONOMY AND SOCIETY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 989,
+    "courseCode": "SOC481",
+    "courseName": "SOCIETY AND SOCIALPROBLEMS OF INDI",
+    "Credits": "9"
+  },
+  {
+    "dataId": 990,
+    "courseCode": "SOC482",
+    "courseName": "SOCIOLOGY OF GLOBALIZATION",
+    "Credits": "9"
+  },
+  {
+    "dataId": 991,
+    "courseCode": "SOC486",
+    "courseName": "HUMAN RIGHTS THEORY AND PRACTICE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 992,
+    "courseCode": "SOC720",
+    "courseName": "RESEARCHMETHODS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 993,
+    "courseCode": "SOC721",
+    "courseName": "SOCIOLOGICAL THEORY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 994,
+    "courseCode": "SOC723",
+    "courseName": "INTRODUCTION TOSTATISTICAL INFERENCE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 995,
+    "courseCode": "SOC724",
+    "courseName": "URBAN SOCIOLOGY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 996,
+    "courseCode": "SOC733",
+    "courseName": "POPULATION PROCESSES",
+    "Credits": "9"
+  },
+  {
+    "dataId": 997,
+    "courseCode": "SOC742",
+    "courseName": "SOCIOLOGY OF ENVIRONMENT",
+    "Credits": "9"
+  },
+  {
+    "dataId": 998,
+    "courseCode": "SOC745",
+    "courseName": "SOCIAL THEORY IN LATE TWENTIETH CENTURY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 999,
+    "courseCode": "SOC753",
+    "courseName": "SOCIOLOGY OF SOCIALMOBILITY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 1000,
+    "courseCode": "SOC754",
+    "courseName": "SOCIAL CHANGE INCONTEMPORARY INDIA:A SOCIOLOGICAL PERSPECTIVE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 1001,
+    "courseCode": "SOC757",
+    "courseName": "LAW AND SOCIAL CHANGE",
+    "Credits": "9"
+  },
+  {
+    "dataId": 1002,
+    "courseCode": "SOC759",
+    "courseName": "ECONOMY AND SOCIETY",
+    "Credits": "9"
+  },
+  {
+    "dataId": 1003,
+    "courseCode": "SOC799",
+    "courseName": "PHD THESIS",
+    "Credits": "0"
+  },
+  {
+    "dataId": 1004,
+    "courseCode": "TA101",
+    "courseName": "ENGINEERING GRAPHICS",
+    "Credits": "9"
+  },
+  {
+    "dataId": 1005,
+    "courseCode": "TA201",
+    "courseName": "MANUFACTURING PROCESSES I",
+    "Credits": "6"
+  },
+  {
+    "dataId": 1006,
+    "courseCode": "TA202",
+    "courseName": "MANUFACTURING PROCESSES II",
+    "Credits": "6"
+  }
+]
