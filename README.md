@@ -1,5 +1,5 @@
 # CPI SPI Calculator
-[Click here] to acces the app
+[Click here] to open the app
 ### Intro
 This calculator is a web-application, made in reactJS and designed using react-bootstrap and css.
 #### Features
@@ -16,11 +16,7 @@ Semester credits.
 - And that's it!!
 
 ### Source Code
-| Plugin | README |
-| ------ | ------ |
-| Onedrive | [Code - onedrive] |
-| Codepen | N/A |
-| StackBlitz | N/A |
+> [Onedrive]
 
-[Code-onedrive]: <https://iitk-my.sharepoint.com/:f:/g/personal/harshp_iitk_ac_in/EnIgVQkkdo1Mqn4VveWqzWABAwBsK88OJPIze67cWPFKtg?e=e0Ndh2>
+[Onedrive]: <https://iitk-my.sharepoint.com/:f:/g/personal/harshp_iitk_ac_in/EnIgVQkkdo1Mqn4VveWqzWABAwBsK88OJPIze67cWPFKtg?e=e0Ndh2>
 [Click here]: <https://h4rshp.github.io/CPI-SPI-Calculator/>
