@@ -17,6 +17,8 @@ Semester credits.
 
 ### Source Code
 > [Onedrive]
+> [Github]
 
+[Github]: <https://github.com/h4rSHp/CPI-SPI-Calculator/tree/gh-pages/src>
 [Onedrive]: <https://iitk-my.sharepoint.com/:f:/g/personal/harshp_iitk_ac_in/EnIgVQkkdo1Mqn4VveWqzWABAwBsK88OJPIze67cWPFKtg?e=e0Ndh2>
 [Click here]: <https://h4rshp.github.io/CPI-SPI-Calculator/>
